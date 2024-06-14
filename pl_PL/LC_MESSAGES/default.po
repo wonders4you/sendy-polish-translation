@@ -1,0 +1,3810 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sendy\n"
+"POT-Creation-Date: 2024-04-18 14:56+0800\n"
+"PO-Revision-Date: 2024-06-14 22:48+0200\n"
+"Last-Translator: Tomek Urban <tomek@wonders4you.com>\n"
+"Language-Team: Tomek Urban <tomek@wonders4you.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js/ckeditor\n"
+"X-Poedit-SearchPathExcluded-1: js/highcharts\n"
+"X-Poedit-SearchPathExcluded-2: js/tablesorter\n"
+"X-Poedit-SearchPathExcluded-3: js/pickaday\n"
+
+msgid "Can't connect to database"
+msgstr "Nie można połączyć się z bazą danych"
+
+msgid "There is a problem connecting to the database. Please try again later."
+msgstr "Wystąpił problem z połączeniem z bazą danych. Spróbuj ponownie później."
+
+msgid "Edit brand settings"
+msgstr "Edytuj ustawienia marki"
+
+msgid "All campaigns"
+msgstr "Wszystkie kampanie"
+
+msgid "Create & send new campaign"
+msgstr "Utwórz i wyślij nową kampanię"
+
+msgid "New campaign"
+msgstr "Nowa kampania"
+
+msgid "Create a new campaign"
+msgstr "Utwórz nową kampanię"
+
+msgid "Import HTML file"
+msgstr "Importuj plik HTML"
+
+msgid "Import from URL"
+msgstr "Importuj z URL"
+
+msgid "Or use a template"
+msgstr "Lub użyj szablonu"
+
+msgid "URL of the email you want to import"
+msgstr "URL e-maila, który chcesz zaimportować"
+
+msgid "eg. https://mydomain.com/email.html"
+msgstr "np. https://mydomain.com/email.html"
+
+msgid "Import"
+msgstr "Importuj"
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Search campaigns"
+msgstr "Szukaj kampanii"
+
+msgid "Campaigns RSS feed"
+msgstr "Kanał RSS kampanii"
+
+msgid "The following is the link to your campaigns RSS feed. This RSS feed displays an archive of the last 100 campaigns previously sent."
+msgstr "Poniżej znajduje się link do kanału RSS Twoich kampanii. Ten kanał RSS wyświetla archiwum ostatnich 100 wysłanych kampanii."
+
+msgid "Some ways to use your RSS feed"
+msgstr "Kilka sposobów na wykorzystanie Twojego kanału RSS"
+
+msgid "Integrate your campaigns feed with your website or application anyway you like"
+msgstr "Zintegruj kanał kampanii ze swoją stroną internetową lub aplikacją w dowolny sposób"
+
+msgid "Display an archive of your past campaigns on your website or application"
+msgstr "Wyświetl archiwum swoich poprzednich kampanii na swojej stronie internetowej lub w aplikacji"
+
+msgid "Let your audience subscribe to your RSS feed so they'll get notified whenever you send a campaign. Good for users who prefers RSS over email (or even both)"
+msgstr "Pozwól swojej publiczności subskrybować Twój kanał RSS, aby otrzymywali powiadomienia za każdym razem, gdy wysyłasz kampanię. Dobre dla użytkowników, którzy preferują RSS zamiast e-maila (lub nawet oba)"
+
+msgid "Subscribe to your client's RSS feed (if you give access to your clients) to get notified when they send a new campaign"
+msgstr "Subskrybuj kanał RSS swojego klienta (jeśli dajesz swoim klientom dostęp), aby otrzymywać powiadomienia, gdy wysyłają nową kampanię"
+
+msgid "Okay"
+msgstr "Ok"
+
+msgid "Campaign"
+msgstr "Kampania"
+
+msgid "Recipients"
+msgstr "Odbiorcy"
+
+msgid "Sent"
+msgstr "Wysłano"
+
+msgid "Unique Opens"
+msgstr "Unikalne otwarcia"
+
+msgid "Unique Clicks"
+msgstr "Unikalne kliknięcia"
+
+msgid "Duplicate"
+msgstr "Duplikuj"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Draft"
+msgstr "Szkic"
+
+msgid "Define recipients & send"
+msgstr "Określ odbiorców i wyślij"
+
+msgid "Scheduled"
+msgstr "Zaplanowane"
+
+msgid "Scheduled on"
+msgstr "Zaplanowane na"
+
+msgid "opened"
+msgstr "otwarte"
+
+msgid "Tracking disabled"
+msgstr "Śledzenie wyłączone"
+
+msgid "clicked"
+msgstr "kliknięte"
+
+msgid "Sending"
+msgstr "Wysyłanie"
+
+msgid "Currently sending your campaign to"
+msgstr "Obecnie wysyłanie kampanii do"
+
+msgid "recipients"
+msgstr "odbiorcy"
+
+msgid "If sending has stopped, the send was probably timed out by the server, click to resume sending."
+msgstr "Jeśli wysyłanie zostało zatrzymane, prawdopodobnie wysyłanie zostało przerwane przez serwer, kliknij, aby wznowić wysyłanie."
+
+msgid "Resume"
+msgstr "Wznów"
+
+msgid "Click to stop the campaign."
+msgstr "Kliknij, aby zatrzymać kampanię."
+
+msgid "Stop"
+msgstr "Zatrzymaj"
+
+msgid "Checking.."
+msgstr "Sprawdzanie.."
+
+msgid "Confirm delete"
+msgstr "Potwierdź usunięcie"
+
+msgid "Sorry, unable to delete. Please try again later!"
+msgstr "Przepraszamy, nie można usunąć. Spróbuj ponownie później!"
+
+msgid "Only continue if you think that sending has stopped. Resume sending?"
+msgstr "Kontynuuj tylko jeśli uważasz, że wysyłanie zostało zatrzymane. Wznowić wysyłanie?"
+
+msgid "Campaign will stop and no more emails will be sent, are you sure you want to proceed?"
+msgstr "Kampania zostanie zatrzymana i nie będą wysyłane żadne dalsze e-maile, czy na pewno chcesz kontynuować?"
+
+msgid "View report for this campaign"
+msgstr "Zobacz raport dla tej kampanii"
+
+msgid "Error retrieving count"
+msgstr "Błąd pobierania liczby"
+
+msgid "Preparing"
+msgstr "Przygotowanie"
+
+msgid "Preparing to send your campaign to"
+msgstr "Przygotowanie do wysłania kampanii do"
+
+msgid "This will revert the campaign back to 'Draft'. Are you sure you want to proceed?"
+msgstr "To przywróci kampanię do 'Szkicu'. Czy na pewno chcesz kontynuować?"
+
+msgid "Preparing to send"
+msgstr "Przygotowanie do wysyłki"
+
+msgid "Edit this campaign"
+msgstr "Edytuj tę kampanię"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "This will permanently delete the campaign."
+msgstr "To trwale usunie kampanię."
+
+msgid "Download CSV of emails that were not delivered to even after retrying"
+msgstr "Pobierz CSV e-maili, które nie zostały dostarczone nawet po ponownych próbach"
+
+msgid "not delivered"
+msgstr "nie dostarczono"
+
+msgid "This will permanently delete the campaign and all activity reports for this campaign. All tracking links, unsubscribe and web version links will no longer work for this campaign as well."
+msgstr "To trwale usunie kampanię i wszystkie raporty aktywności dla tej kampanii. Wszystkie linki śledzące, linki do rezygnacji i wersje internetowe nie będą już działać dla tej kampanii."
+
+msgid "There are no campaigns yet"
+msgstr "Nie ma jeszcze kampanii"
+
+msgid "Send one"
+msgstr "Wyślij jedną"
+
+msgid "Duplicate on which brand?"
+msgstr "Duplikować na którą markę?"
+
+msgid "Choose a brand you'd like to duplicate this campaign on"
+msgstr "Wybierz markę, na którą chcesz zduplikować tę kampanię"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Delete campaign"
+msgstr "Usuń kampanię"
+
+msgid "Confirm delete <span id=\"campaign-to-delete\" style=\"font-weight:bold;\"></span>?"
+msgstr "Potwierdź usunięcie <span id=\"campaign-to-delete\" style=\"font-weight:bold;\"></span>?"
+
+msgid "Type the word"
+msgstr "Wpisz słowo"
+
+msgid "Your cron job may not be working"
+msgstr "Twoje zadanie cron może nie działać"
+
+msgid "Your campaign has been in 'Preparing' status for more than 5 minutes. This means that your cron job aren't executing the 'scheduled.php' script to start sending. If your campaign does not go into 'Sending' status in the next 5 minutes, please see this troubleshooting tip"
+msgstr "Twoja kampania jest w statusie 'Przygotowanie' przez ponad 5 minut. Oznacza to, że Twoje zadanie cron nie wykonuje skryptu 'scheduled.php', aby rozpocząć wysyłanie. Jeśli Twoja kampania nie przejdzie do statusu 'Wysyłanie' w ciągu następnych 5 minut, zobacz tę wskazówkę dotyczącą rozwiązywania problemów"
+
+msgid "The subject of your email is required"
+msgstr "Temat Twojego e-maila jest wymagany"
+
+msgid "'From name' is required"
+msgstr "'Nazwa nadawcy' jest wymagana"
+
+msgid "A valid 'From email' is required"
+msgstr "Ważny 'E-mail nadawcy' jest wymagany"
+
+msgid "A valid 'Reply to' email is required"
+msgstr "Ważny 'E-mail do odpowiedzi' jest wymagany"
+
+msgid "Your HTML code is required"
+msgstr "Twój kod HTML jest wymagany"
+
+msgid "Please specify a number"
+msgstr "Proszę podać liczbę"
+
+msgid "immediately"
+msgstr "natychmiast"
+
+msgid "on"
+msgstr "na"
+
+msgid "Create autoresponder email"
+msgstr "Utwórz e-mail autorespondera"
+
+msgid "Send email"
+msgstr "Wyślij e-mail"
+
+msgid "minutes"
+msgstr "minuty"
+
+msgid "hours"
+msgstr "godziny"
+
+msgid "days"
+msgstr "dni"
+
+msgid "weeks"
+msgstr "tygodnie"
+
+msgid "months"
+msgstr "miesiące"
+
+msgid "after they subscribe"
+msgstr "po ich subskrypcji"
+
+msgid "and"
+msgstr "i"
+
+msgid "apply to these segments only"
+msgstr "zastosuj tylko do tych segmentów"
+
+msgid "before"
+msgstr "przed"
+
+msgid "after"
+msgstr "po"
+
+msgid "each subscriber's"
+msgstr "każdego subskrybenta"
+
+msgid "Only send to these segments"
+msgstr "Wysyłaj tylko do tych segmentów"
+
+msgid "No segments found in this list"
+msgstr "Nie znaleziono segmentów na tej liście"
+
+msgid "Don't include emails in these segments"
+msgstr "Nie włączaj e-maili do tych segmentów"
+
+msgid "Select a template"
+msgstr "Wybierz szablon"
+
+msgid "Subject"
+msgstr "Temat"
+
+msgid "Subject of this email"
+msgstr "Temat tego e-maila"
+
+msgid "From name"
+msgstr "Nazwa nadawcy"
+
+msgid "From email"
+msgstr "E-mail nadawcy"
+
+msgid "name@domain.com"
+msgstr "nazwa@domena.com"
+
+msgid "Reply to email"
+msgstr "E-mail do odpowiedzi"
+
+msgid "Plain text version"
+msgstr "Wersja tekstowa"
+
+msgid "Plain text version of this email"
+msgstr "Wersja tekstowa tego e-maila"
+
+msgid "Query string"
+msgstr "Ciąg zapytania"
+
+msgid "Optionally append a query string to all links in your email newsletter. A good use case is Google Analytics tracking. Don't include '?' in your query string."
+msgstr "Opcjonalnie dodaj ciąg zapytania do wszystkich linków w Twoim newsletterze. Dobry przypadek użycia to śledzenie Google Analytics. Nie dołączaj '?' do ciągu zapytania."
+
+msgid "Attachments"
+msgstr "Załączniki"
+
+msgid "Allowed file types"
+msgstr "Dozwolone typy plików"
+
+msgid "Track opens"
+msgstr "Śledź otwarcia"
+
+msgid "Enable opens tracking"
+msgstr "Włącz śledzenie otwarć"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "Disable opens tracking"
+msgstr "Wyłącz śledzenie otwarć"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Track opens without identifying users to respect their privacy"
+msgstr "Śledź otwarcia bez identyfikowania użytkowników, aby chronić ich prywatność"
+
+msgid "Anonymously"
+msgstr "Anonimowo"
+
+msgid "Track clicks"
+msgstr "Śledź kliknięcia"
+
+msgid "Enable clicks tracking"
+msgstr "Włącz śledzenie kliknięć"
+
+msgid "Disable clicks tracking"
+msgstr "Wyłącz śledzenie kliknięć"
+
+msgid "Track clicks without identifying users to respect their privacy"
+msgstr "Śledź kliknięcia bez identyfikowania użytkowników, aby chronić ich prywatność"
+
+msgid "Save this email as a template"
+msgstr "Zapisz ten e-mail jako szablon"
+
+msgid "Don't save this email as a template"
+msgstr "Nie zapisuj tego e-maila jako szablon"
+
+msgid "Save"
+msgstr "Zapisz"
+
+msgid "Save & exit"
+msgstr "Zapisz i wyjdź"
+
+msgid "Back to autoresponder email list"
+msgstr "Powrót do listy e-maili autorespondera"
+
+msgid "Disable Grammarly extension in your browser"
+msgstr "Wyłącz rozszerzenie Grammarly w swojej przeglądarce"
+
+msgid "You have 'Grammarly' extension installed in your browser. Grammarly injects thousands of lines of code into the email editor. As a result your email will have an extremely huge file size, look weird and you may not be able to save or send your campaign. To avoid all these, please do the following:"
+msgstr "Masz zainstalowane rozszerzenie 'Grammarly' w swojej przeglądarce. Grammarly wstrzykuje tysiące linii kodu do edytora e-maili. W rezultacie Twój e-mail będzie miał niezwykle dużą wielkość pliku, będzie wyglądał dziwnie i może się zdarzyć, że nie będziesz w stanie zapisać lub wysłać swojej kampanii. Aby tego uniknąć, wykonaj następujące czynności:"
+
+msgid "Disable Grammarly extension in your browser (please see image below)"
+msgstr "Wyłącz rozszerzenie Grammarly w swojej przeglądarce (zobacz obrazek poniżej)"
+
+msgid "Then refresh this page"
+msgstr "Następnie odśwież tę stronę"
+
+msgid "HTML code"
+msgstr "Kod HTML"
+
+msgid "Save and switch to HTML editor"
+msgstr "Zapisz i przełącz na edytor HTML"
+
+msgid "Switch to HTML editor if the WYSIWYG editor is causing your newsletter to look weird."
+msgstr "Przełącz na edytor HTML, jeśli edytor WYSIWYG powoduje, że Twój newsletter wygląda dziwnie."
+
+msgid "Untitled"
+msgstr "Bez tytułu"
+
+msgid "Email content"
+msgstr "Treść e-maila"
+
+msgid "Use the following tags in your subject, plain text or HTML code and they'll automatically be formatted when your campaign is sent. For web version and unsubscribe tags, you can style them with inline CSS."
+msgstr "Użyj poniższych tagów w temacie, wersji tekstowej lub kodzie HTML, a zostaną one automatycznie sformatowane podczas wysyłania kampanii. Dla wersji internetowej i tagów rezygnacji z subskrypcji możesz je stylizować za pomocą inline CSS."
+
+msgid "Switch to the WYSIWYG editor to use formatting tools."
+msgstr "Przełącz na edytor WYSIWYG, aby użyć narzędzi do formatowania."
+
+msgid "Edit autoresponder email"
+msgstr "Edytuj e-mail autorespondera"
+
+msgid "Save and switch to WYSIWYG editor"
+msgstr "Zapisz i przełącz na edytor WYSIWYG"
+
+msgid "Sorry, unable to toggle. Please try again later!"
+msgstr "Przepraszamy, nie można przełączyć. Spróbuj ponownie później!"
+
+msgid "Autoresponder emails"
+msgstr "E-maile autorespondera"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Back to lists"
+msgstr "Powrót do list"
+
+msgid "Click to change the title of this Autoresponder"
+msgstr "Kliknij, aby zmienić tytuł tego autorespondera"
+
+msgid "Autoresponder title cannot be empty"
+msgstr "Tytuł autorespondera nie może być pusty"
+
+msgid "Add a new email to this autoresponder"
+msgstr "Dodaj nowy e-mail do tego autorespondera"
+
+msgid "New Autoresponder email"
+msgstr "Nowy e-mail autorespondera"
+
+msgid "Create a new Autoresponder email"
+msgstr "Utwórz nowy e-mail autorespondera"
+
+msgid "Send"
+msgstr "Wyślij"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enabled"
+msgstr "Włączone"
+
+msgid "On"
+msgstr "W"
+
+msgid "sign up"
+msgstr "zarejestruj się"
+
+msgid "Annually on"
+msgstr "Rocznie w dniu"
+
+msgid "Once on"
+msgstr "Jednorazowo w dniu"
+
+msgid "signup"
+msgstr "rejestracja"
+
+msgid "View report"
+msgstr "Zobacz raport"
+
+msgid "Preview"
+msgstr "Podgląd"
+
+msgid "Send test email"
+msgstr "Wyślij testowy e-mail"
+
+msgid "Email has been sent!"
+msgstr "E-mail został wysłany!"
+
+msgid "Sorry, unable to send. Please try again later!"
+msgstr "Przepraszamy, nie można wysłać. Spróbuj ponownie później!"
+
+msgid "Test email(s)"
+msgstr "Testowy(e) e-mail(e)"
+
+msgid "Email addresses, separated by commas"
+msgstr "Adresy e-mail, oddzielone przecinkami"
+
+msgid "Please find Amazon's email in your inbox as well as spam folder. They will include a reason for the suspension. You will need to reply to that email in order to re-activate your account. If you can't find the email, please contact Amazon's support at their <a href='https://forums.aws.amazon.com/forum.jspa?forumID=90' target='_blank'>Amazon SES forum</a>"
+msgstr "Proszę sprawdzić e-mail od Amazon w swojej skrzynce odbiorczej oraz w folderze ze spamem. Będzie zawierał powód zawieszenia. Musisz odpowiedzieć na ten e-mail, aby ponownie aktywować swoje konto. Jeśli nie możesz znaleźć e-maila, skontaktuj się z pomocą techniczną Amazon na ich <a href='https://forums.aws.amazon.com/forum.jspa?forumID=90' target='_blank'>forum Amazon SES</a>"
+
+msgid "For more information on Amazon SES suspension, please see <a href='http://docs.aws.amazon.com/ses/latest/DeveloperGuide/e-faq-sp.html' target='_blank'>http://docs.aws.amazon.com/ses/latest/DeveloperGuide/e-faq-sp.html"
+msgstr "Aby uzyskać więcej informacji na temat zawieszenia Amazon SES, zobacz <a href='http://docs.aws.amazon.com/ses/latest/DeveloperGuide/e-faq-sp.html' target='_blank'>http://docs.aws.amazon.com/ses/latest/DeveloperGuide/e-faq-sp.html"
+
+msgid "No autoresponder emails are set up."
+msgstr "Nie ustawiono żadnych e-maili autorespondera."
+
+msgid "Back to autoresponders list"
+msgstr "Powrót do listy autoresponderów"
+
+msgid "Autoresponder name is required"
+msgstr "Nazwa autorespondera jest wymagana"
+
+msgid "Autoresponders"
+msgstr "Autorespondery"
+
+msgid "You can't create an autoresponder based on a custom field already in use by another autoresponder."
+msgstr "Nie możesz utworzyć autorespondera na podstawie pola niestandardowego, które jest już używane przez inny autoresponder."
+
+msgid "Create a new autoresponder"
+msgstr "Utwórz nowy autoresponder"
+
+msgid "All types of autoresponders have been created"
+msgstr "Utworzono wszystkie rodzaje autoresponderów"
+
+msgid "You can create more emails in each type of autoresponder that you have previously created below."
+msgstr "Możesz utworzyć więcej e-maili w każdym typie autorespondera, który utworzyłeś poniżej."
+
+msgid "To create more 'Send annually' and 'Send on date' autoresponders, add more 'Date based' custom fields to this list."
+msgstr "Aby utworzyć więcej autoresponderów 'Wyślij rocznie' i 'Wyślij w dniu', dodaj więcej niestandardowych pól 'Na podstawie daty' do tej listy."
+
+msgid "Autoresponder name"
+msgstr "Nazwa autorespondera"
+
+msgid "Autoresponder type"
+msgstr "Typ autorespondera"
+
+msgid "Drip campaign"
+msgstr "Kampania kroplowa"
+
+msgid "Create a sequence of emails that automatically sends to subscribers after they sign up."
+msgstr "Utwórz sekwencję e-maili, które są automatycznie wysyłane do subskrybentów po ich rejestracji."
+
+msgid "A drip campaign autoresponder has already been created. You cannot create another drip campaign but you can add more emails to the sequence."
+msgstr "Autoresponder kampanii kroplowej został już utworzony. Nie możesz utworzyć kolejnej kampanii kroplowej, ale możesz dodać więcej e-maili do sekwencji."
+
+msgid "There are no available 'date based custom fields' to create anniversary or date based autoresponders."
+msgstr "Brak dostępnych 'niestandardowych pól na podstawie daty' do tworzenia autoresponderów rocznicowych lub na podstawie daty."
+
+msgid "Send annually"
+msgstr "Wyślij rocznie"
+
+msgid "Create emails that automatically sends annually to subscribers, eg. anniversaries or birthdays."
+msgstr "Utwórz e-maile, które są automatycznie wysyłane co roku do subskrybentów, np. rocznice lub urodziny."
+
+msgid "Based on this date"
+msgstr "Na podstawie tej daty"
+
+msgid "Send on date"
+msgstr "Wyślij w dniu"
+
+msgid "Create one off emails that sends automatically on a specific date. eg. one off reminders."
+msgstr "Utwórz jednorazowe e-maile, które są automatycznie wysyłane w określonym dniu. np. jednorazowe przypomnienia."
+
+msgid "Save & next"
+msgstr "Zapisz i dalej"
+
+msgid "Existing autoresponders"
+msgstr "Istniejące autorespondery"
+
+msgid "Autoresponder"
+msgstr "Autoresponder"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Emails sent"
+msgstr "Wysłane e-maile"
+
+msgid "No emails have been set up"
+msgstr "Nie ustawiono żadnych e-maili"
+
+msgid "All associated autoresponder emails will be permanently deleted."
+msgstr "Wszystkie powiązane e-maile autorespondera zostaną trwale usunięte."
+
+msgid "No autoresponders"
+msgstr "Brak autoresponderów"
+
+msgid "No opens yet!"
+msgstr "Brak otwarć!"
+
+msgid "Tracking disabled for opens"
+msgstr "Śledzenie otwarć wyłączone"
+
+msgid "There are no links for this autoresponder."
+msgstr "Brak linków dla tego autorespondera."
+
+msgid "Tracking disabled for clicks"
+msgstr "Śledzenie kliknięć wyłączone"
+
+msgid "Activity"
+msgstr "Aktywność"
+
+msgid "Opened"
+msgstr "Otwarty"
+
+msgid "Unopened"
+msgstr "Nieotwarty"
+
+msgid "Clicked"
+msgstr "Kliknięty"
+
+msgid "Unsubscribed"
+msgstr "Wypisany"
+
+msgid "Bounced"
+msgstr "Odbity"
+
+msgid "Marked as spam"
+msgstr "Oznaczony jako spam"
+
+msgid "Autoresponder report"
+msgstr "Raport autorespondera"
+
+msgid "View the web version"
+msgstr "Zobacz wersję internetową"
+
+msgid "From"
+msgstr "Od"
+
+msgid "subscribers"
+msgstr "subskrybenci"
+
+msgid "unique"
+msgstr "unikalny"
+
+msgid "times"
+msgstr "razy"
+
+msgid "not opened"
+msgstr "nieotwarte"
+
+msgid "clicked a link"
+msgstr "kliknął link"
+
+msgid "unsubscribed"
+msgstr "wypisany"
+
+msgid "bounced"
+msgstr "odbity"
+
+msgid "marked as spam"
+msgstr "oznaczony jako spam"
+
+msgid "Link activity"
+msgstr "Aktywność linków"
+
+msgid "Export a CSV of ALL subscribers who clicked"
+msgstr "Eksportuj CSV ze WSZYSTKIMI subskrybentami, którzy kliknęli"
+
+msgid "Import ALL subscribers who clicked at least one link into a list"
+msgstr "Importuj WSZYSTKICH subskrybentów, którzy kliknęli przynajmniej jeden link, na listę"
+
+msgid "Link (URL)"
+msgstr "Link (URL)"
+
+msgid "Unique"
+msgstr "Unikalny"
+
+msgid "Total"
+msgstr "Łącznie"
+
+msgid "Last 10 opened"
+msgstr "Ostatnie 10 otwartych"
+
+msgid "Export a CSV of ALL subscribers who opened"
+msgstr "Eksportuj CSV ze WSZYSTKIMI subskrybentami, którzy otworzyli"
+
+msgid "Import ALL subscribers who opened this campaign into a list"
+msgstr "Importuj WSZYSTKICH subskrybentów, którzy otworzyli tę kampanię, na listę"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "No one opened yet."
+msgstr "Nikt jeszcze nie otworzył."
+
+msgid "Subscribed"
+msgstr "Subskrybowany"
+
+msgid "No name"
+msgstr "Brak nazwy"
+
+msgid "Last 10 unsubscribed"
+msgstr "Ostatnie 10 wypisanych"
+
+msgid "Export subscribers who unsubscribed"
+msgstr "Eksportuj subskrybentów, którzy się wypisali"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "No one unsubscribed from this autoresponder!"
+msgstr "Nikt się nie wypisał z tego autorespondera!"
+
+msgid "Last 10 bounced emails"
+msgstr "Ostatnie 10 odbitych e-maili"
+
+msgid "Export subscribers who bounced"
+msgstr "Eksportuj subskrybentów, których e-maile zostały odbite"
+
+msgid "No emails bounced from this autoresponder!"
+msgstr "Żadne e-maile nie zostały odbite z tego autorespondera!"
+
+msgid "Last 10 marked as spam"
+msgstr "Ostatnie 10 oznaczonych jako spam"
+
+msgid "Export subscribers who marked your email as spam"
+msgstr "Eksportuj subskrybentów, którzy oznaczyli Twój e-mail jako spam"
+
+msgid "No one marked your email as spam!"
+msgstr "Nikt nie oznaczył Twojego e-maila jako spam!"
+
+msgid "All countries"
+msgstr "Wszystkie kraje"
+
+msgid "Country"
+msgstr "Kraj"
+
+msgid "Opens"
+msgstr "Otwarcia"
+
+msgid "Export"
+msgstr "Eksportuj"
+
+msgid "Export a CSV of ALL subscribers from"
+msgstr "Eksportuj plik CSV ze WSZYSTKIMI subskrybentami z"
+
+msgid "Import ALL subscribers who opened this campaign into a list from"
+msgstr "Importuj WSZYSTKICH subskrybentów, którzy otworzyli tę kampanię, na listę z"
+
+msgid "Top 10 countries"
+msgstr "Top 10 krajów"
+
+msgid "No countries detected yet."
+msgstr "Nie wykryto jeszcze żadnych krajów."
+
+msgid "Subscriber info"
+msgstr "Informacje o subskrybencie"
+
+msgid "Fetching"
+msgstr "Pobieranie"
+
+msgid "Oops, there was an error getting the subscriber's info. Please try again later."
+msgstr "Ups, wystąpił błąd podczas pobierania informacji o subskrybencie. Spróbuj ponownie później."
+
+msgid "Import into which list?"
+msgstr "Importować na którą listę?"
+
+msgid "Choose a list you'd like to import these subscribers into"
+msgstr "Wybierz listę, na którą chcesz zaimportować tych subskrybentów"
+
+msgid "The name of your new list"
+msgstr "Nazwa Twojej nowej listy"
+
+msgid "Create a new list"
+msgstr "Utwórz nową listę"
+
+msgid "Now importing. If the number of subscribers are huge, it may take a little longer."
+msgstr "Teraz importowanie. Jeśli liczba subskrybentów jest duża, może to zająć trochę więcej czasu."
+
+msgid "Choose an existing list"
+msgstr "Wybierz istniejącą listę"
+
+msgid "Blacklist"
+msgstr "Czarna lista"
+
+msgid "Suppression list"
+msgstr "Lista tłumienia"
+
+msgid "Blocked domains"
+msgstr "Zablokowane domeny"
+
+msgid "If you'd like block email addresses that belong to certain domains (eg. disposable emails) from ever being imported into any lists in this brand, import them into this list. Any email addresses you import via CSV or API into any list in this brand in future will not be imported if they appear in this list."
+msgstr "Jeśli chcesz zablokować adresy e-mail należące do określonych domen (np. jednorazowe e-maile) przed ich importowaniem na jakiekolwiek listy w tej marce, zaimportuj je na tę listę. Wszelkie adresy e-mail, które zaimportujesz przez CSV lub API na jakąkolwiek listę w tej marce w przyszłości, nie zostaną zaimportowane, jeśli pojawią się na tej liście."
+
+msgid "Import list of domains to block"
+msgstr "Importuj listę domen do zablokowania"
+
+msgid "Delete all"
+msgstr "Usuń wszystkie"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Import via CSV file"
+msgstr "Importuj przez plik CSV"
+
+msgid "Please ensure there is only one column in your CSV containing only domains."
+msgstr "Upewnij się, że w Twoim pliku CSV jest tylko jedna kolumna zawierająca tylko domeny."
+
+msgid "Please upload a CSV file."
+msgstr "Proszę przesłać plik CSV."
+
+msgid "If you are uploading a huge CSV file, Try increasing the following values in your server's php.ini to larger numbers. Contact your hosting support if you're unsure how to do this."
+msgstr "Jeśli przesyłasz duży plik CSV, spróbuj zwiększyć następujące wartości w php.ini swojego serwera. Skontaktuj się z pomocą techniczną hostingu, jeśli nie wiesz, jak to zrobić."
+
+msgid "(set to 0 so that execution won't time out indefinitely)"
+msgstr "(ustaw na 0, aby wykonanie nie zakończyło się przekroczeniem limitu czasu)"
+
+msgid "Alternatively, try splitting your huge CSV file into several smaller sized CSV files and import them one after another."
+msgstr "Alternatywnie spróbuj podzielić duży plik CSV na kilka mniejszych plików CSV i importuj je jeden po drugim."
+
+msgid "CSV format"
+msgstr "Format CSV"
+
+msgid "Your CSV should only contain one column containing only domains"
+msgstr "Twój plik CSV powinien zawierać tylko jedną kolumnę zawierającą tylko domeny"
+
+msgid "Your CSV columns should be separated by commas, not semi-colons or any other characters"
+msgstr "Kolumny w Twoim pliku CSV powinny być oddzielone przecinkami, a nie średnikami ani innymi znakami"
+
+msgid "Domain"
+msgstr "Domena"
+
+msgid "Email addresses with domains matching any records in your CSV will also be removed from all lists in this brand."
+msgstr "Adresy e-mail z domenami pasującymi do jakichkolwiek rekordów w Twoim pliku CSV również zostaną usunięte ze wszystkich list w tej marce."
+
+msgid "Import and delete matching records from all lists"
+msgstr "Importuj i usuń pasujące rekordy ze wszystkich list"
+
+msgid "Import domains per line"
+msgstr "Importuj domeny na linię"
+
+msgid "Sorry, we didn't receive any input."
+msgstr "Przepraszamy, nie otrzymaliśmy żadnych danych wejściowych."
+
+msgid "Domains"
+msgstr "Domeny"
+
+msgid "Email addresses with domains matching any domains you've entered above will also be removed from all lists in this brand."
+msgstr "Adresy e-mail z domenami pasującymi do jakichkolwiek domen, które wprowadziłeś powyżej, również zostaną usunięte ze wszystkich list w tej marce."
+
+msgid "Last update"
+msgstr "Ostatnia aktualizacja"
+
+msgid "Block attempts"
+msgstr "Próby zablokowania"
+
+msgid "No domain found."
+msgstr "Nie znaleziono domeny."
+
+msgid "Please note that email addresses with domains matching any records in your CSV will also be removed from all lists in this brand after being imported into this 'Blocked domains' list. Do you want to proceed?"
+msgstr "Proszę zauważyć, że adresy e-mail z domenami pasującymi do jakichkolwiek rekordów w Twoim pliku CSV również zostaną usunięte ze wszystkich list w tej marce po ich zaimportowaniu na tę listę 'Zablokowanych domen'. Czy chcesz kontynuować?"
+
+msgid "Please note that email addresses with domains matching any records you've provided will also be removed from all lists in this brand after being imported into this 'Blocked domains' list. Do you want to proceed?"
+msgstr "Proszę zauważyć, że adresy e-mail z domenami pasującymi do jakichkolwiek rekordów, które podałeś, również zostaną usunięte ze wszystkich list w tej marce po ich zaimportowaniu na tę listę 'Zablokowanych domen'. Czy chcesz kontynuować?"
+
+msgid "All domains in the 'Blocked domains' list will be deleted. Do you want to proceed?"
+msgstr "Wszystkie domeny na liście 'Zablokowanych domen' zostaną usunięte. Czy chcesz kontynuować?"
+
+msgid "If you have a list of email addresses that should never receive any email campaigns or autoresponders from you, import them into this suppression list. Any email addresses you import via CSV or API into any list in this brand in future will not be imported if they appear in this suppression list."
+msgstr "Jeśli masz listę adresów e-mail, które nigdy nie powinny otrzymywać żadnych kampanii e-mailowych ani autoresponderów od Ciebie, zaimportuj je na tę listę tłumienia. Wszelkie adresy e-mail, które zaimportujesz przez CSV lub API na jakąkolwiek listę w tej marce w przyszłości, nie zostaną zaimportowane, jeśli pojawią się na tej liście tłumienia."
+
+msgid "Import suppression list"
+msgstr "Importuj listę tłumienia"
+
+msgid "Please ensure there is only one column in your CSV containing only email addresses."
+msgstr "Upewnij się, że w Twoim pliku CSV jest tylko jedna kolumna zawierająca tylko adresy e-mail."
+
+msgid "Your CSV should only contain one column containing only email addresses"
+msgstr "Twój plik CSV powinien zawierać tylko jedną kolumnę zawierającą tylko adresy e-mail"
+
+msgid "Email addresses that matches any records in your CSV will also be removed from all lists in this brand."
+msgstr "Adresy e-mail pasujące do jakichkolwiek rekordów w Twoim pliku CSV również zostaną usunięte ze wszystkich list w tej marce."
+
+msgid "Import emails per line"
+msgstr "Importuj e-maile na linię"
+
+msgid "Email addresses"
+msgstr "Adresy e-mail"
+
+msgid "Email addresses matching any emails you've entered above will also be removed from all lists in this brand."
+msgstr "Adresy e-mail pasujące do jakichkolwiek e-maili, które wprowadziłeś powyżej, również zostaną usunięte ze wszystkich list w tej marce."
+
+msgid "Email address"
+msgstr "Adres e-mail"
+
+msgid "No email addresses found."
+msgstr "Nie znaleziono żadnych adresów e-mail."
+
+msgid "Please note that email addresses that matches any records in your CSV will also be removed from all lists in this brand after being imported into this 'Suppression list'. Do you want to proceed?"
+msgstr "Proszę zauważyć, że adresy e-mail pasujące do jakichkolwiek rekordów w Twoim pliku CSV również zostaną usunięte ze wszystkich list w tej marce po ich zaimportowaniu na tę listę 'Tłumienia'. Czy chcesz kontynuować?"
+
+msgid "Please note that email addresses that matches any emails you've provided will also be removed from all lists in this brand after being imported into this 'Suppression list'. Do you want to proceed?"
+msgstr "Proszę zauważyć, że adresy e-mail pasujące do jakichkolwiek e-maili, które podałeś, również zostaną usunięte ze wszystkich list w tej marce po ich zaimportowaniu na tę listę 'Tłumienia'. Czy chcesz kontynuować?"
+
+msgid "All email addresses in the 'Suppression list' will be deleted. Do you want to proceed?"
+msgstr "Wszystkie adresy e-mail na liście 'Tłumienia' zostaną usunięte. Czy chcesz kontynuować?"
+
+msgid "Campaigns RSS"
+msgstr "RSS kampanii"
+
+msgid "Clear queue table"
+msgstr "Wyczyść tabelę kolejki"
+
+msgid "The queue table has been cleared successfully!"
+msgstr "Tabela kolejki została pomyślnie wyczyszczona!"
+
+msgid "Failed to clear the queue table."
+msgstr "Nie udało się wyczyścić tabeli kolejki."
+
+msgid "Please make sure all currently sending campaigns are completed first before doing this."
+msgstr "Upewnij się, że wszystkie obecnie wysyłane kampanie zostały najpierw zakończone przed wykonaniem tej czynności."
+
+msgid "Do you want to clear the queue table?"
+msgstr "Czy chcesz wyczyścić tabelę kolejki?"
+
+msgid "Yes, clear the queue table"
+msgstr "Tak, wyczyść tabelę kolejki"
+
+msgid "You're subscribed!"
+msgstr "Jesteś zapisany!"
+
+msgid "The name of this template is required"
+msgstr "Wymagana jest nazwa tego szablonu"
+
+msgid "Create template"
+msgstr "Utwórz szablon"
+
+msgid "Template name"
+msgstr "Nazwa szablonu"
+
+msgid "Name of this template"
+msgstr "Nazwa tego szablonu"
+
+msgid "Plain text version of this template"
+msgstr "Wersja tekstowa tego szablonu"
+
+msgid "Save template"
+msgstr "Zapisz szablon"
+
+msgid "Campaign title"
+msgstr "Tytuł kampanii"
+
+msgid "Title of this campaign"
+msgstr "Tytuł tej kampanii"
+
+msgid "Set a title for this campaign?"
+msgstr "Ustawić tytuł tej kampanii?"
+
+msgid "This title (instead of the subject line) will be displayed in your campaigns list and reports. You can also set the title later in the campaign report after sending this campaign."
+msgstr "Ten tytuł (zamiast tematu) będzie wyświetlany na liście kampanii i w raportach. Możesz także ustawić tytuł później w raporcie kampanii po wysłaniu tej kampanii."
+
+msgid "Web version language"
+msgstr "Język wersji internetowej"
+
+msgid "The web version of this email will be translated by Google Translate to the language you select."
+msgstr "Wersja internetowa tego e-maila zostanie przetłumaczona przez Google Translate na wybrany język."
+
+msgid "Don't translate"
+msgstr "Nie tłumacz"
+
+msgid "Check for broken links"
+msgstr "Sprawdź, czy nie ma zepsutych linków"
+
+msgid "Don't check for broken links"
+msgstr "Nie sprawdzaj, czy nie ma zepsutych linków"
+
+msgid "A custom field name of less than<br/>30 characters is required"
+msgstr "Wymagana jest nazwa pola niestandardowego o długości poniżej<br/>30 znaków"
+
+msgid "Custom fields"
+msgstr "Pola niestandardowe"
+
+msgid "Add a field"
+msgstr "Dodaj pole"
+
+msgid "Field name"
+msgstr "Nazwa pola"
+
+msgid "This custom field already exist, please use a unique custom field."
+msgstr "To pole niestandardowe już istnieje, proszę użyć unikalnego pola niestandardowego."
+
+msgid "Name of custom field"
+msgstr "Nazwa pola niestandardowego"
+
+msgid "Data type"
+msgstr "Typ danych"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Add custom field"
+msgstr "Dodaj pole niestandardowe"
+
+msgid "Existing fields"
+msgstr "Istniejące pola"
+
+msgid "This custom field is currently used by an autoresponder. In order to delete this custom field, delete the autoresponder associated with this custom field."
+msgstr "To pole niestandardowe jest obecnie używane przez autoresponder. Aby usunąć to pole niestandardowe, usuń autoresponder powiązany z tym polem niestandardowym."
+
+msgid "Personalization tag"
+msgstr "Tag personalizacji"
+
+msgid "All data belonging to this custom field will also be deleted."
+msgstr "Wszystkie dane należące do tego pola niestandardowego również zostaną usunięte."
+
+msgid "Edit custom field"
+msgstr "Edytuj pole niestandardowe"
+
+msgid "Please upload a CSV file"
+msgstr "Proszę przesłać plik CSV"
+
+msgid "Please enter at least one combination of name & email"
+msgstr "Proszę wprowadzić przynajmniej jedno połączenie nazwy i e-maila"
+
+msgid "Mass delete via CSV file"
+msgstr "Masowe usuwanie przez plik CSV"
+
+msgid "There should only be 1 column in your CSV containing emails."
+msgstr "W Twoim pliku CSV powinna być tylko jedna kolumna zawierająca e-maile."
+
+msgid "CSV format example"
+msgstr "Przykład formatu CSV"
+
+msgid "Delete email per line"
+msgstr "Usuń e-mail na linię"
+
+msgid "Email to delete"
+msgstr "E-mail do usunięcia"
+
+msgid "There is a problem connecting to the database. Please try again later or see this <a href=\"https://sendy.co/troubleshooting#cannot-connect-to-database\" target=\"_blank\">troubleshooting tip</a>."
+msgstr "Wystąpił problem z połączeniem z bazą danych. Spróbuj ponownie później lub zobacz tę <a href=\"https://sendy.co/troubleshooting#cannot-connect-to-database\" target=\"_blank\">wskazówkę dotyczącą rozwiązywania problemów</a>."
+
+msgid "Please specify your brand's name"
+msgstr "Proszę podać nazwę swojej marki"
+
+msgid "Edit brand"
+msgstr "Edytuj markę"
+
+msgid "Brand name"
+msgstr "Nazwa marki"
+
+msgid "Name of the brand"
+msgstr "Nazwa marki"
+
+msgid "Checking if your 'From email' is verified in your SES console.."
+msgstr "Sprawdzanie, czy Twój 'E-mail nadawcy' jest zweryfikowany w konsoli SES.."
+
+msgid "Unverified 'From email'"
+msgstr "Niezidentyfikowany 'E-mail nadawcy'"
+
+msgid "Your 'From email' or its domain is not verified in your Amazon SES console. Do either of the following:"
+msgstr "Twój 'E-mail nadawcy' lub jego domena nie są zweryfikowane w konsoli Amazon SES. Zrób jedno z poniższych:"
+
+msgid "Click here to verify this 'From email', Amazon will send a verification email to this 'From email'"
+msgstr "Kliknij tutaj, aby zweryfikować ten 'E-mail nadawcy', Amazon wyśle e-mail weryfikacyjny na ten 'E-mail nadawcy'"
+
+msgid "Alternatively, verify this 'From email's 'domain' in your Amazon SES console"
+msgstr "Alternatywnie, zweryfikuj 'domenę' tego 'E-maila nadawcy' w konsoli Amazon SES"
+
+msgid "When you verify a domain, you can use any 'From email' address belonging to that domain without having to verify them individually."
+msgstr "Gdy zweryfikujesz domenę, możesz używać dowolnego adresu 'E-maila nadawcy' należącego do tej domeny bez konieczności ich indywidualnej weryfikacji."
+
+msgid "Lastly, the 'From email' is case sensitive. Please ensure you are using the same case as the email address verified in your Amazon SES console."
+msgstr "Na koniec, 'E-mail nadawcy' jest rozróżniany pod względem wielkości liter. Upewnij się, że używasz tego samego formatu jak adres e-mail zweryfikowany w Twojej konsoli Amazon SES."
+
+msgid "'From email' pending verification"
+msgstr "'E-mail nadawcy' oczekuje na weryfikację"
+
+msgid "Your 'From email' or its domain is pending verification in your Amazon SES console. Please complete the verification."
+msgstr "Twój 'E-mail nadawcy' lub jego domena oczekują na weryfikację w konsoli Amazon SES. Proszę zakończyć weryfikację."
+
+msgid "Unable to communicate with Amazon SES API"
+msgstr "Nie można komunikować się z API Amazon SES"
+
+msgid "Please check the error message on the left for instructions."
+msgstr "Proszę sprawdzić komunikat o błędzie po lewej stronie, aby uzyskać instrukcje."
+
+msgid "Congrats! This 'From email' is verified."
+msgstr "Gratulacje! Ten 'E-mail nadawcy' jest zweryfikowany."
+
+msgid "Please wait.."
+msgstr "Proszę czekać.."
+
+msgid "A verification email has been sent to your 'From email' address with a confirmation link to complete the verification. Please click the link to complete the verification, then refresh this page."
+msgstr "E-mail weryfikacyjny został wysłany na Twój adres 'E-maila nadawcy' z linkiem potwierdzającym w celu zakończenia weryfikacji. Proszę kliknąć link, aby zakończyć weryfikację, a następnie odświeżyć tę stronę."
+
+msgid "Two verification emails has been sent to both your login email address and the above 'From email' address. Please click the verification link in both emails to complete the verification, then refresh this page."
+msgstr "Dwa e-maile weryfikacyjne zostały wysłane zarówno na Twój adres e-mail do logowania, jak i na powyższy adres 'E-maila nadawcy'. Proszę kliknąć link weryfikacyjny w obu e-mailach, aby zakończyć weryfikację, a następnie odświeżyć tę stronę."
+
+msgid "Unable to send your 'From email' address to Amazon SES for verification! Please try again later."
+msgstr "Nie można wysłać Twojego adresu 'E-maila nadawcy' do Amazon SES w celu weryfikacji! Proszę spróbować ponownie później."
+
+msgid "Sorry, unable to verify email address. Please try again later!"
+msgstr "Przepraszamy, nie można zweryfikować adresu e-mail. Proszę spróbować ponownie później!"
+
+msgid "Brand logo"
+msgstr "Logo marki"
+
+msgid "(32 x 32 pixel, jpeg, jpg, gif or png format)"
+msgstr "(32 x 32 piksele, format jpeg, jpg, gif lub png)"
+
+msgid "Confirm delete this logo?"
+msgstr "Potwierdź usunięcie tego logo?"
+
+msgid "Could not create '/logos/' directory. Please make sure permissions in /uploads/ folder is set to 777. Your logo has not been uploaded."
+msgstr "Nie można utworzyć katalogu '/logos/'. Upewnij się, że uprawnienia w folderze /uploads/ są ustawione na 777. Twoje logo nie zostało przesłane."
+
+msgid "Please upload only these file formats: jpeg, jpg, gif or png."
+msgstr "Proszę przesyłać tylko w tych formatach plików: jpeg, jpg, gif lub png."
+
+msgid "Could not upload image to '/logos/' folder. <br/>Please make sure permissions in /uploads/ folder is set to 777. <br/>Then remove the /logos/ folder in the /uploads/ folder and try again."
+msgstr "Nie można przesłać obrazu do folderu '/logos/'. <br/>Upewnij się, że uprawnienia w folderze /uploads/ są ustawione na 777. <br/>Następnie usuń folder /logos/ w folderze /uploads/ i spróbuj ponownie."
+
+msgid "SMTP settings"
+msgstr "Ustawienia SMTP"
+
+msgid "Choose an SMTP provider"
+msgstr "Wybierz dostawcę SMTP"
+
+msgid "See how to setup ElasticEmail with Sendy"
+msgstr "Zobacz, jak skonfigurować ElasticEmail z Sendy"
+
+msgid "See how to setup Sendgrid with Sendy"
+msgstr "Zobacz, jak skonfigurować Sendgrid z Sendy"
+
+msgid "See how to setup Mailjet with Sendy"
+msgstr "Zobacz, jak skonfigurować Mailjet z Sendy"
+
+msgid "Emails are sent via Amazon SES by default. However, if you want to send emails via another SMTP provider for this brand, you can set the SMTP credentials here."
+msgstr "E-maile są domyślnie wysyłane przez Amazon SES. Jednak jeśli chcesz wysyłać e-maile przez innego dostawcę SMTP dla tej marki, możesz ustawić tutaj dane uwierzytelniające SMTP."
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "Username (usually your email)"
+msgstr "Nazwa użytkownika (zazwyczaj Twój e-mail)"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Leave blank to not change it"
+msgstr "Pozostaw puste, aby nie zmieniać"
+
+msgid "Custom domain"
+msgstr "Domena niestandardowa"
+
+msgid "Just like Sendy domain licenses, custom domains requires licensing."
+msgstr "Podobnie jak licencje domen Sendy, domeny niestandardowe wymagają licencjonowania."
+
+msgid "You can purchase custom domain licenses here →"
+msgstr "Możesz kupić licencje na domeny niestandardowe tutaj →"
+
+msgid "Refresh this page once done and you will be able to set your custom domain."
+msgstr "Odśwież tę stronę po zakończeniu, aby móc ustawić swoją domenę niestandardową."
+
+msgid "When you set a custom domain, unsubscribe, web version and all trackable links in emails you send will use this custom domain instead of the domain you installed Sendy on. Brand users can also login to their accounts via the custom domain."
+msgstr "Gdy ustawisz domenę niestandardową, linki do wypisania się, wersji internetowej i wszystkie śledzone linki w wysyłanych e-mailach będą używać tej domeny niestandardowej zamiast domeny, na której zainstalowałeś Sendy. Użytkownicy marki mogą również logować się do swoich kont za pomocą domeny niestandardowej."
+
+msgid "Unsubscribe, web version and all trackable links in emails you send will use this custom domain instead of the domain you installed Sendy on. Brand users can also login to their accounts via the custom domain."
+msgstr "Linki do wypisania się, wersji internetowej i wszystkie śledzone linki w wysyłanych e-mailach będą używać tej domeny niestandardowej zamiast domeny, na której zainstalowałeś Sendy. Użytkownicy marki mogą również logować się do swoich kont za pomocą domeny niestandardowej."
+
+msgid "You can purchase more custom domain licenses here →"
+msgstr "Możesz kupić więcej licencji na domeny niestandardowe tutaj →"
+
+msgid "Create a CNAME record in your custom domain's DNS and point it to your Sendy installation's domain:"
+msgstr "Utwórz rekord CNAME w DNS swojej domeny niestandardowej i skieruj go na domenę instalacji Sendy:"
+
+msgid "Before enabling your custom domain, test your custom domain setup by visiting the following URL and it should load your Sendy login page"
+msgstr "Przed włączeniem domeny niestandardowej przetestuj jej konfigurację, odwiedzając poniższy URL. Powinna załadować się strona logowania Sendy"
+
+msgid "Otherwise, <a href=\"https://sendy.co/troubleshooting#custom-domain-not-working\" target=\"_blank\" style=\"text-decoration: underline;\">please see this troubleshooting tip</a>"
+msgstr "W przeciwnym razie, <a href=\"https://sendy.co/troubleshooting#custom-domain-not-working\" target=\"_blank\" style=\"text-decoration: underline;\">zobacz tę wskazówkę dotyczącą rozwiązywania problemów</a>"
+
+msgid "Enable custom domain?"
+msgstr "Włączyć domenę niestandardową?"
+
+msgid "Google reCAPTCHA v2"
+msgstr "Google reCAPTCHA v2"
+
+msgid "You can use Google's reCAPTCHA v2 to protect your subscription forms from spam bots. To enable, register your site on <a href=\"https://www.google.com/recaptcha/admin/create\" target=\"_blank\" style=\"text-decoration: underline;\">Google's reCAPTCHA website</a> and select 'reCAPTCHA v2 > \"I'm not a robot\" tickbox' to get your 'Site key' and 'Secret key', then paste them below. reCAPTCHA will be disabled if the following fields are empty."
+msgstr "Możesz użyć Google reCAPTCHA v2, aby chronić swoje formularze subskrypcji przed botami spamującymi. Aby włączyć, zarejestruj swoją witrynę na <a href=\"https://www.google.com/recaptcha/admin/create\" target=\"_blank\" style=\"text-decoration: underline;\">stronie Google reCAPTCHA</a> i wybierz 'reCAPTCHA v2 > „Nie jestem robotem”', aby uzyskać 'Klucz strony' i 'Klucz tajny', a następnie wklej je poniżej. reCAPTCHA będzie wyłączona, jeśli poniższe pola są puste."
+
+msgid "Site key"
+msgstr "Klucz strony"
+
+msgid "Secret key"
+msgstr "Klucz tajny"
+
+msgid "GDPR features"
+msgstr "Funkcje RODO"
+
+msgid "The <a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">General Data Protection Regulation (GDPR)</a> is a regulation in EU law on data protection and privacy for all individuals within the European Union. The GDPR regulation affects anyone in the world who collect and process the personal data of EU users. If you collect and process data of EU users, Sendy's GDPR features will be useful to you."
+msgstr "<a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">Ogólne rozporządzenie o ochronie danych (RODO)</a> to rozporządzenie w prawie UE dotyczące ochrony danych i prywatności wszystkich osób w Unii Europejskiej. Rozporządzenie RODO dotyczy każdego na świecie, kto zbiera i przetwarza dane osobowe użytkowników z UE. Jeśli zbierasz i przetwarzasz dane użytkowników z UE, funkcje RODO w Sendy będą dla Ciebie przydatne."
+
+msgid "GDPR options"
+msgstr "Opcje RODO"
+
+msgid "Show me GDPR options where applicable"
+msgstr "Pokaż mi opcje RODO, gdzie to możliwe"
+
+msgid "By enabling this option, GDPR features will show up in the app where appropriate. For example, subscribe form dialogues will present you with an option to enable 'GDPR fields' amongst many others."
+msgstr "Włączając tę opcję, funkcje RODO będą wyświetlane w aplikacji tam, gdzie to odpowiednie. Na przykład, w dialogach formularza subskrypcji pojawi się opcja włączenia 'Pól RODO' i wiele innych."
+
+msgid "GDPR safe switch"
+msgstr "Bezpieczny przełącznik RODO"
+
+msgid "Only send Campaigns to subscribers with <span class=\"label label-warning\">GDPR</span> tag"
+msgstr "Wysyłaj kampanie tylko do subskrybentów z tagiem <span class=\"label label-warning\">RODO</span>"
+
+msgid "Subscribers who signup through Sendy's 'Ready-to-use subscribe form', the embeddable 'Subscribe form HTML code' or the 'subscribe' API with 'gdpr' parameter set to 'true' will be tagged with 'GDPR'. By enabling this option, your future Campaigns will only send to subscribers tagged with 'GDPR'."
+msgstr "Subskrybenci, którzy zarejestrują się przez 'Gotowy do użycia formularz subskrypcji' Sendy, osadzalny 'Kod HTML formularza subskrypcji' lub API 'subskrypcji' z ustawionym parametrem 'gdpr' na 'true', będą oznaczeni tagiem 'RODO'. Włączając tę opcję, Twoje przyszłe kampanie będą wysyłane tylko do subskrybentów oznaczonych tagiem 'RODO'."
+
+msgid "Only send Autoresponders to subscribers with <span class=\"label label-warning\">GDPR</span> tag"
+msgstr "Wysyłaj autorespondery tylko do subskrybentów z tagiem <span class=\"label label-warning\">RODO</span>"
+
+msgid "Subscribers who signup through Sendy's 'Ready-to-use subscribe form', the embeddable 'Subscribe form HTML code' or the 'subscribe' API with 'gdpr' parameter set to 'true' will be tagged with 'GDPR'. By enabling this option, your future Autoresponders will only send to subscribers tagged with 'GDPR'."
+msgstr "Subskrybenci, którzy zarejestrują się przez 'Gotowy do użycia formularz subskrypcji' Sendy, osadzalny 'Kod HTML formularza subskrypcji' lub API 'subskrypcji' z ustawionym parametrem 'gdpr' na 'true', będą oznaczeni tagiem 'RODO'. Włączając tę opcję, Twoje przyszłe autorespondery będą wysyłane tylko do subskrybentów oznaczonych tagiem 'RODO'."
+
+msgid "Privacy"
+msgstr "Prywatność"
+
+msgid "Set your default email tracking preference when creating new campaigns or autoresponders. This can still be changed on the fly when you create new campaigns or autoresponders."
+msgstr "Ustaw domyślne preferencje śledzenia e-maili podczas tworzenia nowych kampanii lub autoresponderów. Można to nadal zmienić w locie podczas tworzenia nowych kampanii lub autoresponderów."
+
+msgid "Miscellaneous"
+msgstr "Różne"
+
+msgid "Default URL query string"
+msgstr "Domyślny ciąg zapytania URL"
+
+msgid "(Default query string to append to all links in your campaigns and autoresponders. A good use case is Google Analytics tracking. Don't include '?' in your query string.)"
+msgstr "(Domyślny ciąg zapytania do dodania do wszystkich linków w Twoich kampaniach i autoresponderach. Dobry przykład użycia to śledzenie Google Analytics. Nie dołączaj '?' do ciągu zapytania.)"
+
+msgid "Prefix for subject line of test emails"
+msgstr "Prefiks dla tematu e-maili testowych"
+
+msgid "(Optionally add a prefix to the subject line of test emails)"
+msgstr "(Opcjonalnie dodaj prefiks do tematu e-maili testowych)"
+
+msgid "Allowed attachments file types"
+msgstr "Dozwolone typy plików załączników"
+
+msgid "(Empty field to disable attachments in campaigns)"
+msgstr "(Puste pole, aby wyłączyć załączniki w kampaniach)"
+
+msgid "Sort lists and templates by"
+msgstr "Sortuj listy i szablony według"
+
+msgid "Date added"
+msgstr "Data dodania"
+
+msgid "No. of rows to show in campaigns, reports, lists and rules"
+msgstr "Liczba wierszy do wyświetlenia w kampaniach, raportach, listach i zasadach"
+
+msgid "rows per page"
+msgstr "wierszy na stronę"
+
+msgid "Default opt-in method"
+msgstr "Domyślna metoda opt-in"
+
+msgid "Single Opt-In"
+msgstr "Pojedyncze Opt-In"
+
+msgid "Double Opt-In"
+msgstr "Podwójne Opt-In"
+
+msgid "Hide hidden lists"
+msgstr "Ukryj ukryte listy"
+
+msgid "Brand settings"
+msgstr "Ustawienia marki"
+
+msgid "If you're creating this brand for your client, you can allow them to send newsletters on their own at a fee you preset below."
+msgstr "Jeśli tworzysz tę markę dla swojego klienta, możesz pozwolić mu na samodzielne wysyłanie newsletterów za opłatą, którą ustalisz poniżej."
+
+msgid "Send the"
+msgstr "Wyślij"
+
+msgid "Client login details"
+msgstr "Szczegóły logowania klienta"
+
+msgid "to your client so that they can login to manage lists, subscribers and send newsletters."
+msgstr "do swojego klienta, aby mógł zalogować się w celu zarządzania listami, subskrybentami i wysyłania newsletterów."
+
+msgid "Also, don't forget to set your PayPal account email address in"
+msgstr "Również, nie zapomnij ustawić adresu e-mail swojego konta PayPal w"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Login URL"
+msgstr "URL logowania"
+
+msgid "Login email"
+msgstr "E-mail logowania"
+
+msgid "This login email is already in use by your main login email address set in your main Settings. Please use another email address or remove the email address from the field."
+msgstr "Ten e-mail logowania jest już używany przez Twój główny adres e-mail logowania ustawiony w głównych ustawieniach. Proszę użyć innego adresu e-mail lub usunąć adres e-mail z pola."
+
+msgid "Generate new password"
+msgstr "Wygeneruj nowe hasło"
+
+msgid "Two-factor authentication is currently <strong class=\"label label-success\">enabled</strong>"
+msgstr "Uwierzytelnianie dwuskładnikowe jest obecnie <strong class=\"label label-success\">włączone</strong>"
+
+msgid "Disable two-factor authentication"
+msgstr "Wyłącz uwierzytelnianie dwuskładnikowe"
+
+msgid "Two-factor authentication is currently <strong class=\\\"label\\\">disabled</strong>"
+msgstr "Uwierzytelnianie dwuskładnikowe jest obecnie <strong class=\\\"label\\\">wyłączone</strong>"
+
+msgid "(two-factor authentication can only be enabled by the brand user while logged in to their account)"
+msgstr "(uwierzytelnianie dwuskładnikowe może być włączone tylko przez użytkownika marki podczas logowania się do jego konta)"
+
+msgid "Unable to save. Please try again."
+msgstr "Nie można zapisać. Proszę spróbować ponownie."
+
+msgid "Two-factor authentication is currently <strong class=\"label\">disabled</strong>"
+msgstr "Uwierzytelnianie dwuskładnikowe jest obecnie <strong class=\"label\">wyłączone</strong>"
+
+msgid "Language"
+msgstr "Język"
+
+msgid "Client privileges"
+msgstr "Uprawnienia klienta"
+
+msgid "By default, your client will have full access to their own brand so they can manage their own lists, subscribers, campaigns, templates and see reports. You can however adjust these privileges below."
+msgstr "Domyślnie, Twój klient będzie miał pełny dostęp do swojej marki, aby móc zarządzać własnymi listami, subskrybentami, kampaniami, szablonami i przeglądać raporty. Możesz jednak dostosować te uprawnienia poniżej."
+
+msgid "Client can access campaigns"
+msgstr "Klient może uzyskać dostęp do kampanii"
+
+msgid "Client can access templates"
+msgstr "Klient może uzyskać dostęp do szablonów"
+
+msgid "Client can access lists and subscribers"
+msgstr "Klient może uzyskać dostęp do list i subskrybentów"
+
+msgid "Client can access campaign reports"
+msgstr "Klient może uzyskać dostęp do raportów kampanii"
+
+msgid "Campaign sent notifications"
+msgstr "Powiadomienia o wysłanych kampaniach"
+
+msgid "When a campaign is sent successfully, a 'Campaign sent' email notification is sent to the 'From email' address that was used to send out the campaign. If you want the same email notification to be sent to your main login email address as well so that you're notified each time your client sends out a campaign, check the box below."
+msgstr "Gdy kampania zostanie pomyślnie wysłana, powiadomienie e-mail 'Kampania wysłana' zostanie wysłane na adres 'E-mail nadawcy', który został użyty do wysłania kampanii. Jeśli chcesz, aby to samo powiadomienie e-mail zostało wysłane również na Twój główny adres e-mail logowania, abyś był powiadamiany za każdym razem, gdy Twój klient wysyła kampanię, zaznacz poniższe pole."
+
+msgid "Send email notifications to my main login email"
+msgstr "Wysyłaj powiadomienia e-mail na mój główny adres e-mail logowania"
+
+msgid "Campaign fee settings"
+msgstr "Ustawienia opłat za kampanię"
+
+msgid "Currency"
+msgstr "Waluta"
+
+msgid "Delivery Fee"
+msgstr "Opłata za dostawę"
+
+msgid "Cost per recipient"
+msgstr "Koszt na odbiorcę"
+
+msgid "Sending limits"
+msgstr "Limity wysyłania"
+
+msgid "No limits"
+msgstr "Bez limitów"
+
+msgid "Monthly limit"
+msgstr "Miesięczny limit"
+
+msgid "Non expiring limit"
+msgstr "Limit bez terminu ważności"
+
+msgid "Number of emails"
+msgstr "Liczba e-maili"
+
+msgid "Number of emails per month"
+msgstr "Liczba e-maili na miesiąc"
+
+msgid "Currently used"
+msgstr "Obecnie używane"
+
+msgid "Reset limit on which day of the month?"
+msgstr "Zresetować limit którego dnia miesiąca?"
+
+msgid "List settings"
+msgstr "Ustawienia listy"
+
+msgid "List name"
+msgstr "Nazwa listy"
+
+msgid "The list name"
+msgstr "Nazwa listy"
+
+msgid "Subscribe settings"
+msgstr "Ustawienia subskrypcji"
+
+msgid "List type"
+msgstr "Typ listy"
+
+msgid "If you select double opt-in, users will be required to click a link in a confirmation email they'll receive when they sign up via the subscribe form or API."
+msgstr "Jeśli wybierzesz podwójne opt-in, użytkownicy będą musieli kliknąć link w e-mailu potwierdzającym, który otrzymają podczas rejestracji przez formularz subskrypcji lub API."
+
+msgid "Subscribe success page"
+msgstr "Strona sukcesu subskrypcji"
+
+msgid "To redirect users to a custom page letting them know they're subscribed successfully, enter the link below. If you chose 'Double Opt-In' as your 'List type', this page will tell them a confirmation email has been sent to them."
+msgstr "Aby przekierować użytkowników na niestandardową stronę informującą ich o pomyślnej subskrypcji, wprowadź poniższy link. Jeśli wybrałeś 'Podwójne Opt-In' jako 'Typ listy', ta strona poinformuje ich, że e-mail potwierdzający został wysłany."
+
+msgid "Page URL"
+msgstr "URL strony"
+
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+msgid "You can also pass variables into your custom 'Subscribe success page' like so"
+msgstr "Możesz również przekazać zmienne do swojej niestandardowej 'Strony sukcesu subskrypcji' w następujący sposób"
+
+msgid "Example"
+msgstr "Przykład"
+
+msgid "<code>%n</code> will be converted into the subscriber's name"
+msgstr "<code>%n</code> zostanie przekształcone w imię subskrybenta"
+
+msgid "<code>%e</code> will be converted into the 'email'"
+msgstr "<code>%e</code> zostanie przekształcone w 'e-mail'"
+
+msgid "<code>%l</code> will be converted into the 'listID'"
+msgstr "<code>%l</code> zostanie przekształcone w 'listID'"
+
+msgid "Subscription confirmed page"
+msgstr "Strona potwierdzenia subskrypcji"
+
+msgid "only applies for double opt-ins"
+msgstr "dotyczy tylko podwójnych opt-in"
+
+msgid "To redirect users to a custom URL letting them know their 'Double Opt-in' subscription is confirmed, enter the link below."
+msgstr "Aby przekierować użytkowników na niestandardowy URL informujący ich o potwierdzeniu subskrypcji 'Podwójne Opt-in', wprowadź poniższy link."
+
+msgid "You can also pass variables into your custom 'Subscription confirmed page' like so"
+msgstr "Możesz również przekazać zmienne do swojej niestandardowej 'Strony potwierdzenia subskrypcji' w następujący sposób"
+
+msgid "Already subscribed page"
+msgstr "Strona już subskrybowana"
+
+msgid "To redirect users to a custom URL letting them know they're already subscribed, enter the link below."
+msgstr "Aby przekierować użytkowników na niestandardowy URL informujący ich o już dokonanej subskrypcji, wprowadź poniższy link."
+
+msgid "You can also pass variables into your custom 'Already subscribed page' like so"
+msgstr "Możesz również przekazać zmienne do swojej niestandardowej 'Strony już subskrybowanej' w następujący sposób"
+
+msgid "GDPR reconsent success page"
+msgstr "Strona sukcesu ponownej zgody RODO"
+
+msgid "When you send a reconsent campaign with the <code>[reconsent]</code> tag, the converted reconsent link will send the user to a generic page thanking them for their confirmation. To redirect them to a custom URL, enter the link below."
+msgstr "Gdy wyślesz kampanię ponownej zgody z tagiem <code>[reconsent]</code>, przekształcony link ponownej zgody przekieruje użytkownika na ogólną stronę z podziękowaniem za potwierdzenie. Aby przekierować ich na niestandardowy URL, wprowadź poniższy link."
+
+msgid "GDPR consent not given page"
+msgstr "Strona braku zgody RODO"
+
+msgid "If you enabled 'GDPR fields' for your subscribe form, users will be required to tick a checkbox in order to complete the subscription. If they don't, they'll be sent to a generic page with an error message \"Consent not given\". To redirect them to a custom URL, enter the link below."
+msgstr "Jeśli włączyłeś 'Pola RODO' w formularzu subskrypcji, użytkownicy będą musieli zaznaczyć pole wyboru, aby zakończyć subskrypcję. Jeśli tego nie zrobią, zostaną przekierowani na ogólną stronę z komunikatem o błędzie „Brak zgody”. Aby przekierować ich na niestandardowy URL, wprowadź poniższy link."
+
+msgid "Send user a thank you email after they subscribe through the subscribe form or API?"
+msgstr "Wysłać użytkownikowi e-mail z podziękowaniem po subskrypcji przez formularz subskrypcji lub API?"
+
+msgid "You're on our list!"
+msgstr "Jesteś na naszej liście!"
+
+msgid "Thank you email subject"
+msgstr "Temat e-maila z podziękowaniem"
+
+msgid "Email subject"
+msgstr "Temat e-maila"
+
+msgid "Thank you email message"
+msgstr "Wiadomość e-mail z podziękowaniem"
+
+msgid "You can use personalization tags as well as any custom field tags in the subject and message of your thank you email. Eg."
+msgstr "Możesz używać tagów personalizacji oraz dowolnych tagów pól niestandardowych w temacie i wiadomości e-mail z podziękowaniem. Np."
+
+msgid "You can also use <code>[unsubscribe]</code> or <code>&lt;unsubscribe&gt;&lt;/unsubscribe&gt;</code> in the HTML of your thank you email."
+msgstr "Możesz również użyć <code>[unsubscribe]</code> lub <code>&lt;unsubscribe&gt;&lt;/unsubscribe&gt;</code> w HTML-u swojego e-maila z podziękowaniem."
+
+msgid "Email message"
+msgstr "Wiadomość e-mail"
+
+msgid "Welcome onboard!"
+msgstr "Witamy na pokładzie!"
+
+msgid "You are on our list. Changed your mind? You can opt out below."
+msgstr "Jesteś na naszej liście. Zmieniłeś zdanie? Możesz zrezygnować poniżej."
+
+msgid "Unsubscribe me"
+msgstr "Wypisz mnie"
+
+msgid "Please confirm your subscription"
+msgstr "Proszę potwierdź swoją subskrypcję"
+
+msgid "Confirmation email subject"
+msgstr "Temat e-maila potwierdzającego"
+
+msgid "A generic subject line will be used if you leave this field empty."
+msgstr "Zostanie użyty ogólny temat, jeśli pozostawisz to pole puste."
+
+msgid "Subject of confirmation email"
+msgstr "Temat e-maila potwierdzającego"
+
+msgid "Double Opt-In confirmation message"
+msgstr "Wiadomość potwierdzająca podwójne Opt-In"
+
+msgid "A generic email message will be used if you leave this field empty."
+msgstr "Zostanie użyta ogólna wiadomość e-mail, jeśli pozostawisz to pole puste."
+
+msgid "Don't forget to include the confirmation link tag"
+msgstr "Nie zapomnij dołączyć tagu linku potwierdzającego"
+
+msgid "somewhere in your message"
+msgstr "gdzieś w swojej wiadomości"
+
+msgid "You can use personalization tags as well as any custom field tags in the subject and message of your confirmation email. Eg."
+msgstr "Możesz używać tagów personalizacji oraz dowolnych tagów pól niestandardowych w temacie i wiadomości e-mail potwierdzającego. Np."
+
+msgid "You're almost there!"
+msgstr "Prawie gotowe!"
+
+msgid "Please confirm your subscription by clicking the button below"
+msgstr "Proszę potwierdź swoją subskrypcję, klikając poniższy przycisk"
+
+msgid "Confirm your subscription"
+msgstr "Potwierdź swoją subskrypcję"
+
+msgid "Unsubscribe settings"
+msgstr "Ustawienia wypisywania się"
+
+msgid "Unsubscribe behavior"
+msgstr "Zachowanie przy wypisywaniu się"
+
+msgid "If you select double opt-out, users will be required to click a confirmation link in the unsubscribe page to complete their unsubscription."
+msgstr "Jeśli wybierzesz podwójne wypisanie, użytkownicy będą musieli kliknąć link potwierdzający na stronie wypisania, aby zakończyć wypisywanie."
+
+msgid "Single Opt-Out"
+msgstr "Pojedyncze wypisanie"
+
+msgid "Double Opt-Out"
+msgstr "Podwójne wypisanie"
+
+msgid "Unsubscribe user"
+msgstr "Wypisz użytkownika"
+
+msgid "When a user unsubscribes from a newsletter or through the API, choose whether to unsubscribe them from this list only, or unsubscribe them from all lists in this brand."
+msgstr "Gdy użytkownik wypisuje się z newslettera lub przez API, wybierz, czy wypisać go tylko z tej listy, czy też ze wszystkich list w tej marce."
+
+msgid "Only this list"
+msgstr "Tylko ta lista"
+
+msgid "All lists"
+msgstr "Wszystkie listy"
+
+msgid "Unsubscribe confirmation page"
+msgstr "Strona potwierdzająca wypisanie"
+
+msgid "When users unsubscribe from a newsletter, they'll be sent to a generic unsubscription confirmation page. To redirect users to a page of your preference, enter the link below."
+msgstr "Gdy użytkownicy wypisują się z newslettera, zostaną przekierowani na ogólną stronę potwierdzającą wypisanie. Aby przekierować użytkowników na stronę według Twojego wyboru, wprowadź poniższy link."
+
+msgid "You can also pass variables into your custom 'Unsubscribe confirmation page' like so"
+msgstr "Możesz również przekazać zmienne do swojej niestandardowej 'Strony potwierdzającej wypisanie' w następujący sposób"
+
+msgid "<code>%s</code> will be converted into the full 're-subscribe' URL"
+msgstr "<code>%s</code> zostanie przekształcone w pełny URL 'ponownej subskrypcji'"
+
+msgid "Send user a confirmation email after they unsubscribe from a newsletter or through the API?"
+msgstr "Wysłać użytkownikowi e-mail z potwierdzeniem po wypisaniu się z newslettera lub przez API?"
+
+msgid "You're unsubscribed"
+msgstr "Zostałeś wypisany"
+
+msgid "Goodbye email subject"
+msgstr "Temat e-maila pożegnalnego"
+
+msgid "Goodbye email message"
+msgstr "Wiadomość e-mail pożegnalna"
+
+msgid "You can use personalization tags as well as any custom field tags in the subject and message of your goodbye email. Eg."
+msgstr "Możesz używać tagów personalizacji oraz dowolnych tagów pól niestandardowych w temacie i wiadomości e-mail pożegnalnej. Np."
+
+msgid "You can also use <code>[resubscribe]</code> or <code>&lt;resubscribe&gt;&lt;/resubscribe&gt;</code> in the HTML of your goodbye email."
+msgstr "Możesz również użyć <code>[resubscribe]</code> lub <code>&lt;resubscribe&gt;&lt;/resubscribe&gt;</code> w HTML-u swojego e-maila pożegnalnego."
+
+msgid "Goodbye."
+msgstr "Do widzenia."
+
+msgid "Unsubscribed by accident? You can re-subscribe below."
+msgstr "Wypisano przypadkowo? Możesz ponownie zasubskrybować poniżej."
+
+msgid "Re-subscribe me"
+msgstr "Ponownie mnie zasubskrybuj"
+
+msgid "Edit template"
+msgstr "Edytuj szablon"
+
+msgid "Edit campaign"
+msgstr "Edytuj kampanię"
+
+msgid "Housekeeping"
+msgstr "Utrzymanie porządku"
+
+msgid "Unconfirmed subscribers"
+msgstr "Niepotwierdzeni subskrybenci"
+
+msgid "Inactive subscribers"
+msgstr "Nieaktywni subskrybenci"
+
+msgid "Housekeeping for 'Inactive subscribers' allows you to bulk remove subscribers who did not open or click any campaigns that you have ever sent to them."
+msgstr "Utrzymanie porządku dla 'Nieaktywnych subskrybentów' pozwala na masowe usuwanie subskrybentów, którzy nie otworzyli ani nie kliknęli żadnych kampanii, które kiedykolwiek do nich wysłałeś."
+
+msgid "Did not open"
+msgstr "Nie otworzył"
+
+msgid "Did not click"
+msgstr "Nie kliknął"
+
+msgid "Inactive"
+msgstr "Nieaktywny"
+
+msgid "Remove subscribers who did not open any campaign ever sent to them?"
+msgstr "Usunąć subskrybentów, którzy nie otworzyli żadnej kampanii, która kiedykolwiek została do nich wysłana?"
+
+msgid "Export subscribers who did not open any campaign ever sent to them?"
+msgstr "Eksportować subskrybentów, którzy nie otworzyli żadnej kampanii, która kiedykolwiek została do nich wysłana?"
+
+msgid "Confirm permanently remove subscribers?"
+msgstr "Potwierdzić trwałe usunięcie subskrybentów?"
+
+msgid "Sorry, unable to remove subscribers. Please try again later!"
+msgstr "Przepraszamy, nie można usunąć subskrybentów. Proszę spróbować ponownie później!"
+
+msgid "Remove subscribers who did not click any links from any campaign ever sent to them?"
+msgstr "Usunąć subskrybentów, którzy nie kliknęli żadnych linków z jakiejkolwiek kampanii, która kiedykolwiek została do nich wysłana?"
+
+msgid "Export subscribers who did not click any links from any campaign ever sent to them?"
+msgstr "Eksportować subskrybentów, którzy nie kliknęli żadnych linków z jakiejkolwiek kampanii, która kiedykolwiek została do nich wysłana?"
+
+msgid "No housekeeping needed as no campaigns were sent to any of your available lists yet."
+msgstr "Nie potrzeba utrzymania porządku, ponieważ nie wysłano jeszcze żadnych kampanii do żadnej z dostępnych list."
+
+msgid "Housekeeping for 'Unconfirmed subscribers' allows you to bulk remove subscribers who signed up to double opt-in lists but did not click the confirmation link to confirm their subscription."
+msgstr "Utrzymanie porządku dla 'Niepotwierdzonych subskrybentów' pozwala na masowe usuwanie subskrybentów, którzy zapisali się na listy podwójnego opt-in, ale nie kliknęli linku potwierdzającego, aby potwierdzić swoją subskrypcję."
+
+msgid "Remove subscribers from all lists who did not confirm their subscription for 1 week?"
+msgstr "Usunąć subskrybentów ze wszystkich list, którzy nie potwierdzili swojej subskrypcji przez 1 tydzień?"
+
+msgid "1 week"
+msgstr "1 tydzień"
+
+msgid "Remove subscribers from all lists who did not confirm their subscription for more than 1 week?"
+msgstr "Usunąć subskrybentów ze wszystkich list, którzy nie potwierdzili swojej subskrypcji przez ponad 1 tydzień?"
+
+msgid "> 1 week"
+msgstr "> 1 tydzień"
+
+msgid "Remove subscribers from all lists who did not confirm their subscription for more than 2 weeks?"
+msgstr "Usunąć subskrybentów ze wszystkich list, którzy nie potwierdzili swojej subskrypcji przez ponad 2 tygodnie?"
+
+msgid "> 2 weeks"
+msgstr "> 2 tygodnie"
+
+msgid "Remove subscribers from all lists who did not confirm their subscription?"
+msgstr "Usunąć subskrybentów ze wszystkich list, którzy nie potwierdzili swojej subskrypcji?"
+
+msgid "All"
+msgstr "Wszystkie"
+
+msgid "Remove subscribers who did not confirm their subscription for 1 week?"
+msgstr "Usunąć subskrybentów, którzy nie potwierdzili swojej subskrypcji przez 1 tydzień?"
+
+msgid "Remove subscribers who did not confirm their subscription for more than 1 week?"
+msgstr "Usunąć subskrybentów, którzy nie potwierdzili swojej subskrypcji przez ponad 1 tydzień?"
+
+msgid "Remove subscribers who did not confirm their subscription for more than 2 weeks?"
+msgstr "Usunąć subskrybentów, którzy nie potwierdzili swojej subskrypcji przez ponad 2 tygodnie?"
+
+msgid "Remove ALL subscribers who did not confirm their subscription?"
+msgstr "Usunąć WSZYSTKICH subskrybentów, którzy nie potwierdzili swojej subskrypcji?"
+
+msgid "Unconfirmed"
+msgstr "Niepotwierdzone"
+
+msgid "No housekeeping needed as no double opt-in lists are found."
+msgstr "Nie potrzeba utrzymania porządku, ponieważ nie znaleziono żadnych list podwójnego opt-in."
+
+msgid "Can't insert rule"
+msgstr "Nie można wstawić reguły"
+
+msgid "Please verify your email address"
+msgstr "Proszę zweryfikować swój adres e-mail"
+
+msgid "Before you can use the email address as your 'From email' to send emails, please click the following link to verify that the email address belongs to you"
+msgstr "Zanim będziesz mógł używać adresu e-mail jako swojego 'E-maila nadawcy' do wysyłania e-maili, kliknij poniższy link, aby zweryfikować, że adres e-mail należy do Ciebie"
+
+msgid "Import already in progress"
+msgstr "Import już w toku"
+
+msgid "This list is currently importing a CSV. Please wait until the import is completed."
+msgstr "Ta lista obecnie importuje plik CSV. Proszę czekać, aż import zostanie zakończony."
+
+msgid "Added via"
+msgstr "Dodano przez"
+
+msgid "Opt-in method"
+msgstr "Metoda opt-in"
+
+msgid "IP address"
+msgstr "Adres IP"
+
+msgid "Country code"
+msgstr "Kod kraju"
+
+msgid "Signed up from"
+msgstr "Zarejestrowano z"
+
+msgid "GDPR"
+msgstr "RODO"
+
+msgid "Date signed up"
+msgstr "Data rejestracji"
+
+msgid "Signed up via"
+msgstr "Zarejestrowano przez"
+
+msgid "Referrer"
+msgstr "Polecający"
+
+msgid "Unable to create '/csvs/' folder in '/uploads/' folder"
+msgstr "Nie można utworzyć folderu '/csvs/' w folderze '/uploads/'"
+
+msgid "Please ensure that the '/uploads/' directory is chmod to '0777'."
+msgstr "Upewnij się, że katalog '/uploads/' ma chmod '0777'."
+
+msgid "Can't export CSV"
+msgstr "Nie można wyeksportować pliku CSV"
+
+msgid "There is either nothing to export, or the number of records may be too large. If it's the latter, try increasing MySQL's max_allowed_packet."
+msgstr "Albo nie ma nic do wyeksportowania, albo liczba rekordów może być zbyt duża. Jeśli to drugie, spróbuj zwiększyć wartość max_allowed_packet w MySQL."
+
+msgid "Sent annually based on"
+msgstr "Wysłane rocznie na podstawie"
+
+msgid "Sent once based on"
+msgstr "Wysłane jednorazowo na podstawie"
+
+msgid "Unable to upload attachment"
+msgstr "Nie można przesłać załącznika"
+
+msgid "Please ensure the /uploads/ folder permission is set to 777."
+msgstr "Upewnij się, że uprawnienia folderu /uploads/ są ustawione na 777."
+
+msgid "Unable to save autoresponder email"
+msgstr "Nie można zapisać e-maila autorespondera"
+
+msgid "Unable to create autoresponder email"
+msgstr "Nie można utworzyć e-maila autorespondera"
+
+msgid "Unable to create template"
+msgstr "Nie można utworzyć szablonu"
+
+msgid "Unable to read HTML file"
+msgstr "Nie można odczytać pliku HTML"
+
+msgid "Unable to read content of file using file_get_contents."
+msgstr "Nie można odczytać zawartości pliku za pomocą file_get_contents."
+
+msgid "Failed to create campaign with imported HTML file"
+msgstr "Nie udało się utworzyć kampanii z zaimportowanym plikiem HTML"
+
+msgid "Incorrect file type"
+msgstr "Nieprawidłowy typ pliku"
+
+msgid "Only .html and .htm files are allowed."
+msgstr "Dozwolone są tylko pliki .html i .htm."
+
+msgid "Unable to get contents from URL"
+msgstr "Nie można pobrać zawartości z URL"
+
+msgid "Unable to get contents from URL. If you have a firewall running, try disabling it to see if that is the cause of the issue"
+msgstr "Nie można pobrać zawartości z URL. Jeśli masz uruchomioną zaporę ogniową, spróbuj ją wyłączyć, aby sprawdzić, czy to jest przyczyną problemu"
+
+msgid "Failed to create campaign via URL import"
+msgstr "Nie udało się utworzyć kampanii za pomocą importu URL"
+
+msgid "Unable to save campaign"
+msgstr "Nie można zapisać kampanii"
+
+msgid "Unable to create campaign"
+msgstr "Nie można utworzyć kampanii"
+
+msgid "Unable to set sql_mode"
+msgstr "Nie można ustawić sql_mode"
+
+msgid "Sunday"
+msgstr "Niedziela"
+
+msgid "Monday"
+msgstr "Poniedziałek"
+
+msgid "Tuesday"
+msgstr "Wtorek"
+
+msgid "Wednesday"
+msgstr "Środa"
+
+msgid "Thursday"
+msgstr "Czwartek"
+
+msgid "Friday"
+msgstr "Piątek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "January"
+msgstr "Styczeń"
+
+msgid "February"
+msgstr "Luty"
+
+msgid "March"
+msgstr "Marzec"
+
+msgid "April"
+msgstr "Kwiecień"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "June"
+msgstr "Czerwiec"
+
+msgid "July"
+msgstr "Lipiec"
+
+msgid "August"
+msgstr "Sierpień"
+
+msgid "September"
+msgstr "Wrzesień"
+
+msgid "October"
+msgstr "Październik"
+
+msgid "November"
+msgstr "Listopad"
+
+msgid "December"
+msgstr "Grudzień"
+
+msgid "Unable to stop campaign"
+msgstr "Nie można zatrzymać kampanii"
+
+msgid "Light"
+msgstr "Jasny"
+
+msgid "Dark"
+msgstr "Ciemny"
+
+msgid "APP_PATH not set"
+msgstr "APP_PATH nie jest ustawiony"
+
+msgid "Please set your APP_PATH in /includes/config.php to your Sendy installation URL."
+msgstr "Proszę ustawić APP_PATH w /includes/config.php na URL instalacji Sendy."
+
+msgid "Invalid license or domain"
+msgstr "Nieprawidłowa licencja lub domena"
+
+msgid "Please refer to this <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">troubleshooting tip</a>."
+msgstr "Proszę zapoznać się z tą <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">wskazówką dotyczącą rozwiązywania problemów</a>."
+
+msgid "Outgoing connections blocked"
+msgstr "Połączenia wychodzące zablokowane"
+
+msgid "Your server has a firewall blocking outgoing connections. Please refer to this <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">troubleshooting tip</a>."
+msgstr "Twój serwer ma zaporę ogniową blokującą połączenia wychodzące. Proszę zapoznać się z tą <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">wskazówką dotyczącą rozwiązywania problemów</a>."
+
+msgid "Upgrade your license to 6.x"
+msgstr "Uaktualnij swoją licencję do wersji 6.x"
+
+msgid "Your Sendy license requires an upgrade to version 6.x. Please visit <a href=\"https://sendy.co/get-updated\" target=\"_blank\">https://sendy.co/get-updated</a> to purchase an upgrade in order to proceed."
+msgstr "Twoja licencja Sendy wymaga uaktualnienia do wersji 6.x. Proszę odwiedzić <a href=\"https://sendy.co/get-updated\" target=\"_blank\">https://sendy.co/get-updated</a>, aby zakupić uaktualnienie i kontynuować."
+
+msgid "Unlicensed custom domains"
+msgstr "Nielicencjonowane domeny niestandardowe"
+
+msgid "You are using more custom domains than your license allow. Please purchase custom domain licenses here →"
+msgstr "Używasz więcej domen niestandardowych niż pozwala na to Twoja licencja. Proszę zakupić licencje na domeny niestandardowe tutaj →"
+
+msgid "sec ago"
+msgstr "sek temu"
+
+msgid "secs ago"
+msgstr "sek temu"
+
+msgid "min ago"
+msgstr "min temu"
+
+msgid "mins ago"
+msgstr "min temu"
+
+msgid "hr ago"
+msgstr "godz temu"
+
+msgid "hrs ago"
+msgstr "godz temu"
+
+msgid "day ago"
+msgstr "dzień temu"
+
+msgid "days ago"
+msgstr "dni temu"
+
+msgid "week ago"
+msgstr "tydzień temu"
+
+msgid "weeks ago"
+msgstr "tygodnie temu"
+
+msgid "'simplexml' extension not installed on your server"
+msgstr "Rozszerzenie 'simplexml' nie jest zainstalowane na Twoim serwerze"
+
+msgid "We have detected that the 'simplexml' is not installed on your server. Sendy may not be able to load your Amazon SES quotas. Please see the answer on this page to resolve this issue"
+msgstr "Wykryliśmy, że 'simplexml' nie jest zainstalowany na Twoim serwerze. Sendy może nie być w stanie załadować Twoich kwot Amazon SES. Proszę zapoznać się z odpowiedzią na tej stronie, aby rozwiązać ten problem"
+
+msgid "Once done, refresh this page and this error message should disappear."
+msgstr "Po zakończeniu, odśwież tę stronę i ten komunikat o błędzie powinien zniknąć."
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Login"
+msgstr "Zaloguj się"
+
+msgid "Logout"
+msgstr "Wyloguj się"
+
+msgid "Brands"
+msgstr "Marki"
+
+msgid "Add a new brand"
+msgstr "Dodaj nową markę"
+
+msgid "New subscriber"
+msgstr "Nowy subskrybent"
+
+msgid "You have a new subscriber!"
+msgstr "Masz nowego subskrybenta!"
+
+msgid "The following user signed up to your list"
+msgstr "Następujący użytkownik zapisał się na Twoją listę"
+
+msgid "Visit your list"
+msgstr "Odwiedź swoją listę"
+
+msgid "User unsubscribed"
+msgstr "Użytkownik wypisany"
+
+msgid "The following user unsubscribed from your list"
+msgstr "Następujący użytkownik wypisał się z Twojej listy"
+
+msgid "Campaign sent"
+msgstr "Kampania wysłana"
+
+msgid "Your campaign has been sent"
+msgstr "Twoja kampania została wysłana"
+
+msgid "Your campaign has been successfully sent to"
+msgstr "Twoja kampania została pomyślnie wysłana do"
+
+msgid "Brand"
+msgstr "Marka"
+
+msgid "Web version"
+msgstr "Wersja internetowa"
+
+msgid "View campaign report"
+msgstr "Zobacz raport kampanii"
+
+msgid "Campaign now sending"
+msgstr "Kampania jest teraz wysyłana"
+
+msgid "Your campaign is now sending"
+msgstr "Twoja kampania jest teraz wysyłana"
+
+msgid "Your campaign has started sending to"
+msgstr "Twoja kampania zaczęła być wysyłana do"
+
+msgid "Autoresponder email sent"
+msgstr "E-mail autorespondera wysłany"
+
+msgid "An Autoresponder email was triggered"
+msgstr "E-mail autorespondera został wyzwolony"
+
+msgid "Autoresponder subject"
+msgstr "Temat autorespondera"
+
+msgid "Sent to"
+msgstr "Wysłano do"
+
+msgid "Essential tags (HTML only)"
+msgstr "Podstawowe tagi (tylko HTML)"
+
+msgid "The following tags can only be used on the HTML version"
+msgstr "Następujące tagi mogą być używane tylko w wersji HTML"
+
+msgid "Webversion link"
+msgstr "Link do wersji internetowej"
+
+msgid "View web version"
+msgstr "Zobacz wersję internetową"
+
+msgid "Unsubscribe link"
+msgstr "Link do wypisania"
+
+msgid "Unsubscribe here"
+msgstr "Wypisz się tutaj"
+
+msgid "Essential tags"
+msgstr "Podstawowe tagi"
+
+msgid "The following tags can be used on both Plain text or HTML version"
+msgstr "Następujące tagi mogą być używane zarówno w wersji tekstowej, jak i HTML"
+
+msgid "GDPR re-consent tag"
+msgstr "Tag ponownej zgody RODO"
+
+msgid "When requesting your subscribers to re-consent to your future campaigns, you can use this tag as the re-consent link. Upon clicking this link, the subscriber will be tagged with <span class=\"label label-warning\">GDPR</span>. In your brand settings, if you turn on the 'GDPR safe switch', future Campaigns and Autoresponders will only be sent to subscribers tagged with <span class=\"label label-warning\">GDPR</span>."
+msgstr "Gdy prosisz swoich subskrybentów o ponowną zgodę na przyszłe kampanie, możesz użyć tego tagu jako linku ponownej zgody. Po kliknięciu tego linku subskrybent zostanie oznaczony tagiem <span class=\"label label-warning\">RODO</span>. W ustawieniach marki, jeśli włączysz 'Bezpieczny przełącznik RODO', przyszłe kampanie i autorespondery będą wysyłane tylko do subskrybentów oznaczonych tagiem <span class=\"label label-warning\">RODO</span>."
+
+msgid "Reconsent link"
+msgstr "Link ponownej zgody"
+
+msgid "Personalization tags"
+msgstr "Tagi personalizacji"
+
+msgid "Two digit day of the month (eg. 01 to 31)"
+msgstr "Dwucyfrowy dzień miesiąca (np. od 01 do 31)"
+
+msgid "A full textual representation of the day (eg. Friday)"
+msgstr "Pełne tekstowe przedstawienie dnia (np. piątek)"
+
+msgid "Two digit representation of the month (eg. 01 to 12)"
+msgstr "Dwucyfrowe przedstawienie miesiąca (np. od 01 do 12)"
+
+msgid "Full month name (eg. May)"
+msgstr "Pełna nazwa miesiąca (np. maj)"
+
+msgid "Four digit representation of the year (eg. 2014)"
+msgstr "Czterocyfrowe przedstawienie roku (np. 2014)"
+
+msgid "Custom field tags"
+msgstr "Tagi pól niestandardowych"
+
+msgid "You can also use custom fields to personalize your newsletter, eg."
+msgstr "Możesz również użyć pól niestandardowych do personalizacji newslettera, np."
+
+msgid "To manage or get a reference of tags from custom fields, go to any subscriber list. Then click 'Custom fields' button at the top right."
+msgstr "Aby zarządzać lub uzyskać odniesienie do tagów z pól niestandardowych, przejdź do dowolnej listy subskrybentów. Następnie kliknij przycisk 'Pola niestandardowe' w prawym górnym rogu."
+
+msgid "Ways to send emails"
+msgstr "Sposoby wysyłania e-maili"
+
+msgid "Follow Step 5 of the <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\" style=\"text-decoration: underline\">Get Started Guide</a> to hook up your Amazon SES account with your Sendy installation."
+msgstr "Postępuj zgodnie z Krokiem 5 <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\" style=\"text-decoration: underline\">Przewodnika wprowadzającego</a>, aby połączyć swoje konto Amazon SES z instalacją Sendy."
+
+msgid "Save the SMTP credentials generated from the email sending service of your choice under 'SMTP settings' when creating or editing a brand. Or choose from a list of supported SMTP providers like Elastic Email, Sendgrid or MailJet."
+msgstr "Zapisz dane uwierzytelniające SMTP wygenerowane przez wybraną usługę wysyłania e-maili w 'Ustawieniach SMTP' podczas tworzenia lub edycji marki. Lub wybierz z listy obsługiwanych dostawców SMTP, takich jak Elastic Email, Sendgrid lub MailJet."
+
+msgid "Amazon SES Quota"
+msgstr "Pojemność Amazon SES"
+
+msgid "SES region"
+msgstr "Region SES"
+
+msgid "Daily quota"
+msgstr "Dzienna kwota"
+
+msgid "Sends left"
+msgstr "Pozostałe wysyłki"
+
+msgid "Sent today"
+msgstr "Wysłane dzisiaj"
+
+msgid "Send rate"
+msgstr "Wskaźnik wysyłania"
+
+msgid "per sec"
+msgstr "na sek"
+
+msgid "Your Sendy installation is unable to get your SES quota from Amazon because you did not attach \"AmazonSESFullAccess\" user policy to your IAM credentials. Please re-do Step 5.2 and 5.3 of the <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\">Get Started Guide</a> carefully to resolve this error."
+msgstr "Twoja instalacja Sendy nie może uzyskać kwoty SES od Amazon, ponieważ nie dołączyłeś polityki użytkownika \"AmazonSESFullAccess\" do swoich poświadczeń IAM. Proszę dokładnie powtórzyć kroki 5.2 i 5.3 z <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\">Przewodnika wprowadzającego</a>, aby rozwiązać ten problem."
+
+msgid "Your Sendy installation is unable to get your SES quota from Amazon because your server clock is out of sync with NTP. To fix this, Amazon requires you to <strong>sync your server clock with NTP</strong>. Request your host to sync your server clock with NTP with the following command via SSH:"
+msgstr "Twoja instalacja Sendy nie może uzyskać kwoty SES od Amazon, ponieważ zegar serwera jest niezsynchronizowany z NTP. Aby to naprawić, Amazon wymaga <strong>zsynchronizowania zegara serwera z NTP</strong>. Poproś swojego dostawcę hostingu o zsynchronizowanie zegara serwera z NTP za pomocą następującego polecenia przez SSH:"
+
+msgid "Your Sendy installation is unable to get your SES quota from Amazon because the 'Amazon Web Services Credentials' set in Sendy's main Settings are incorrect. You probably did not copy and pasted your IAM credentials fully or properly into the settings. Please re-do Step 5.2 and 5.3 of the <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\">Get Started Guide</a> carefully to resolve this error."
+msgstr "Twoja instalacja Sendy nie może uzyskać kwoty SES od Amazon, ponieważ 'Poświadczenia Amazon Web Services' ustawione w głównych ustawieniach Sendy są nieprawidłowe. Prawdopodobnie nie skopiowałeś i nie wkleiłeś pełnych lub poprawnych poświadczeń IAM do ustawień. Proszę dokładnie powtórzyć kroki 5.2 i 5.3 z <a href=\"https://sendy.co/get-started#step5\" target=\"_blank\">Przewodnika wprowadzającego</a>, aby rozwiązać ten problem."
+
+msgid "Your Sendy installation is unable to get your SES quota from Amazon because you have not completed your sign up of Amazon SES. Here's what you should do:"
+msgstr "Twoja instalacja Sendy nie może uzyskać kwoty SES od Amazon, ponieważ nie zakończyłeś rejestracji w Amazon SES. Oto co powinieneś zrobić:"
+
+msgid "Visit"
+msgstr "Odwiedź"
+
+msgid "your Amazon SES console"
+msgstr "swoją konsolę Amazon SES"
+
+msgid "Click the 'Sign Up For Amazon SES' button to finish your signup"
+msgstr "Kliknij przycisk 'Zarejestruj się w Amazon SES', aby zakończyć rejestrację"
+
+msgid "Once you've completed your signup, this error will disappear."
+msgstr "Po zakończeniu rejestracji, ten błąd zniknie."
+
+msgid "You're currently in Amazon SES's \"Sandbox mode\"."
+msgstr "Obecnie znajdujesz się w 'Trybie piaskownicy' Amazon SES."
+
+msgid "Please request Amazon to \"<a href=\"http://aws.amazon.com/ses/fullaccessrequest/\" target=\"_blank\">raise your SES Sending Limits</a>\" to be able to send to and from any email address as well as raise your daily sending quota from 200 to any number you need."
+msgstr "Proszę poprosić Amazon o \"<a href=\"http://aws.amazon.com/ses/fullaccessrequest/\" target=\"_blank\">podniesienie limitów wysyłania SES</a>\", aby móc wysyłać do i z dowolnego adresu e-mail oraz zwiększyć dzienny limit wysyłania z 200 do dowolnej potrzebnej liczby."
+
+msgid "Please also make sure to select the same 'Region' as what is set in your Sendy Settings (under 'Amazon SES region') when requesting for 'SES Sending Limits' increase."
+msgstr "Proszę upewnić się, że wybierasz ten sam 'Region', co ustawiony w ustawieniach Sendy (w sekcji 'Region Amazon SES') podczas składania wniosku o zwiększenie 'Limitów wysyłania SES'."
+
+msgid "Unable to save"
+msgstr "Nie można zapisać"
+
+msgid "Reason"
+msgstr "Powód"
+
+msgid "This will stop the CSV import, are you sure you want to proceed?"
+msgstr "To zatrzyma import CSV, czy na pewno chcesz kontynuować?"
+
+msgid "Unable to delete CSV file"
+msgstr "Nie można usunąć pliku CSV"
+
+msgid "Unable to update the 'lists' table to stop the import"
+msgstr "Nie można zaktualizować tabeli 'list', aby zatrzymać import"
+
+msgid "I forgot my password"
+msgstr "Zapomniałem hasła"
+
+msgid "We have received a request to reset your password. If you did not send this request, please ignore this email."
+msgstr "Otrzymaliśmy prośbę o zresetowanie hasła. Jeśli nie wysłałeś tej prośby, zignoruj ten e-mail."
+
+msgid "To reset your password, please click the following link:"
+msgstr "Aby zresetować hasło, kliknij poniższy link:"
+
+msgid "Password reset link"
+msgstr "Link do resetowania hasła"
+
+msgid "Reset your password"
+msgstr "Zresetuj swoje hasło"
+
+msgid "Email does not exist."
+msgstr "Adres e-mail nie istnieje."
+
+msgid "Your password has been reset, here's your new one"
+msgstr "Twoje hasło zostało zresetowane, oto nowe"
+
+msgid "For better security, we recommend changing your password immediately once you log back in."
+msgstr "Dla lepszego bezpieczeństwa zalecamy natychmiastową zmianę hasła po ponownym zalogowaniu się."
+
+msgid "Your new password"
+msgstr "Twoje nowe hasło"
+
+msgid "Login to Sendy"
+msgstr "Zaloguj się do Sendy"
+
+msgid "Can't reset password."
+msgstr "Nie można zresetować hasła."
+
+msgid "Clicks"
+msgstr "Kliknięcia"
+
+msgid "Joined"
+msgstr "Dołączył"
+
+msgid "Last activity"
+msgstr "Ostatnia aktywność"
+
+msgid "No opens yet"
+msgstr "Brak otwarć"
+
+msgid "No campaigns yet"
+msgstr "Brak kampanii"
+
+msgid "No autoresponders found"
+msgstr "Nie znaleziono autoresponderów"
+
+msgid "Name of the user"
+msgstr "Nazwa użytkownika"
+
+msgid "User's email address"
+msgstr "Adres e-mail użytkownika"
+
+msgid "The encrypted list ID"
+msgstr "Zaszyfrowane ID listy"
+
+msgid "The name of the list being subscribed to"
+msgstr "Nazwa listy, na którą się zapisujesz"
+
+msgid "URL of the list being subscribed to"
+msgstr "URL listy, na którą się zapisujesz"
+
+msgid "User's Gravatar image URL"
+msgstr "URL obrazu Gravatar użytkownika"
+
+msgid "Lists"
+msgstr "Listy"
+
+msgid "No lists found"
+msgstr "Nie znaleziono list"
+
+msgid "Unable to save the rule"
+msgstr "Nie można zapisać reguły"
+
+msgid "Error: Can't delete all subscribers from segment."
+msgstr "Błąd: Nie można usunąć wszystkich subskrybentów z segmentu."
+
+msgid "Error: Can't insert subscriber into segment."
+msgstr "Błąd: Nie można dodać subskrybenta do segmentu."
+
+msgid "No segments found for this list."
+msgstr "Nie znaleziono segmentów dla tej listy."
+
+msgid "Campaigns"
+msgstr "Kampanie"
+
+msgid "Templates"
+msgstr "Szablony"
+
+msgid "All templates"
+msgstr "Wszystkie szablony"
+
+msgid "Lists & subscribers"
+msgstr "Listy i subskrybenci"
+
+msgid "View all lists"
+msgstr "Zobacz wszystkie listy"
+
+msgid "Others"
+msgstr "Inne"
+
+msgid "Rules"
+msgstr "Zasady"
+
+msgid "Reports"
+msgstr "Raporty"
+
+msgid "See reports"
+msgstr "Zobacz raporty"
+
+msgid "Oops! Unable to save, please try again later."
+msgstr "Ups! Nie można zapisać, spróbuj ponownie później."
+
+msgid "Email already exist in this list."
+msgstr "E-mail już istnieje na tej liście."
+
+msgid "Email is suppressed."
+msgstr "E-mail jest zablokowany."
+
+msgid "Email address is invalid."
+msgstr "Adres e-mail jest nieprawidłowy."
+
+msgid "Error opening data file."
+msgstr "Błąd otwierania pliku danych."
+
+msgid "File is empty."
+msgstr "Plik jest pusty."
+
+msgid "not set"
+msgstr "nie ustawiono"
+
+msgid "Sorry, unable to save. Please try again later!"
+msgstr "Przepraszamy, nie można zapisać. Proszę spróbować ponownie później!"
+
+msgid "Notes"
+msgstr "Notatki"
+
+msgid "Click to add a note for this subscriber."
+msgstr "Kliknij, aby dodać notatkę dla tego subskrybenta."
+
+msgid "Saving.."
+msgstr "Zapisywanie..."
+
+msgid "Campaign activity"
+msgstr "Aktywność kampanii"
+
+msgid "Not detected"
+msgstr "Nie wykryto"
+
+msgid "View report for"
+msgstr "Zobacz raport dla"
+
+msgid "Links clicked"
+msgstr "Kliknięte linki"
+
+msgid "No activity."
+msgstr "Brak aktywności."
+
+msgid "Failed to create with template"
+msgstr "Nie udało się utworzyć za pomocą szablonu"
+
+msgid "Please verify your login email address"
+msgstr "Proszę zweryfikować swój adres e-mail logowania"
+
+msgid "A verification email has been sent to your main login email address with a confirmation link to complete the verification. Please click the link to complete the verification, then refresh this page and this message should disappear."
+msgstr "E-mail weryfikacyjny został wysłany na Twój główny adres e-mail logowania z linkiem potwierdzającym, aby zakończyć weryfikację. Kliknij link, aby zakończyć weryfikację, a następnie odśwież tę stronę i ten komunikat powinien zniknąć."
+
+msgid "It is necessary to verify your main login email address for various reasons, one of them is to enable password reset emails to be sent to you should you forget your password in future."
+msgstr "Należy zweryfikować swój główny adres e-mail logowania z różnych powodów, jednym z nich jest umożliwienie wysyłania e-maili z resetowaniem hasła w przypadku, gdybyś zapomniał hasła w przyszłości."
+
+msgid "Your login email address is still pending verification. Please click the link in the verification email you received from Amazon to complete the verification, then refresh this page and this message should disappear."
+msgstr "Twój adres e-mail logowania jest nadal oczekujący na weryfikację. Kliknij link w e-mailu weryfikacyjnym, który otrzymałeś od Amazon, aby zakończyć weryfikację, a następnie odśwież tę stronę i ten komunikat powinien zniknąć."
+
+msgid "If you want to re-send the verification email"
+msgstr "Jeśli chcesz ponownie wysłać e-mail weryfikacyjny"
+
+msgid "please click here"
+msgstr "kliknij tutaj"
+
+msgid "The verification email has been re-sent to your main login email address."
+msgstr "E-mail weryfikacyjny został ponownie wysłany na Twój główny adres e-mail logowania."
+
+msgid "Unable to send the verification email. Please try again later."
+msgstr "Nie można wysłać e-maila weryfikacyjnego. Proszę spróbować ponownie później."
+
+msgid "Search brands"
+msgstr "Wyszukaj marki"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Sends via"
+msgstr "Wysyła przez"
+
+msgid "Quick links"
+msgstr "Szybkie linki"
+
+msgid "Used"
+msgstr "Używane"
+
+msgid "ElasticEmail SMTP"
+msgstr "ElasticEmail SMTP"
+
+msgid "Sendgrid SMTP"
+msgstr "Sendgrid SMTP"
+
+msgid "Mailjet SMTP"
+msgstr "Mailjet SMTP"
+
+msgid "Amazon SES SMTP"
+msgstr "Amazon SES SMTP"
+
+msgid "Other SMTP service"
+msgstr "Inna usługa SMTP"
+
+msgid "Amazon SES"
+msgstr "Amazon SES"
+
+msgid "No sending provider setup yet. Defaults to send via the server."
+msgstr "Nie skonfigurowano jeszcze dostawcy wysyłki. Domyślnie wysyła przez serwer."
+
+msgid "View report for the latest campaign"
+msgstr "Zobacz raport dla najnowszej kampanii"
+
+msgid "Create new campaign?"
+msgstr "Utworzyć nową kampanię?"
+
+msgid "What are brands?"
+msgstr "Czym są marki?"
+
+msgid "Let's just say you own this company called Apple Inc and you have several products under it eg. Mac, iPhone, iPad etc. These several \"child\" products are what we refer to as 'brands'."
+msgstr "Załóżmy, że posiadasz firmę o nazwie Apple Inc i masz kilka produktów pod nią, np. Mac, iPhone, iPad itp. Te kilka „dziecięcych” produktów to, co nazywamy 'markami'."
+
+msgid "Another example, if you have a company or business with different clients and you want to group them separately, you can create a 'brand' for each."
+msgstr "Inny przykład, jeśli masz firmę lub biznes z różnymi klientami i chcesz ich oddzielnie grupować, możesz utworzyć 'markę' dla każdego."
+
+msgid "Once you've created a brand, you can then create email campaigns, templates, lists, import subscribers or blacklists, setup autoresponders, perform list segmentation etc in each brand you've created."
+msgstr "Po utworzeniu marki możesz następnie tworzyć kampanie e-mail, szablony, listy, importować subskrybentów lub czarne listy, konfigurować autorespondery, wykonywać segmentację list itp. w każdej utworzonej marce."
+
+msgid "If you have clients that you want to provide email marketing services for, you can generate a set of login credentials for each brand, set access privileges, monthly limits, cost per email etc, then send the login credentials to your clients to login and send newsletters on their own."
+msgstr "Jeśli masz klientów, którym chcesz świadczyć usługi e-mail marketingu, możesz wygenerować zestaw poświadczeń logowania dla każdej marki, ustawić uprawnienia dostępu, miesięczne limity, koszt na e-mail itp., a następnie wysłać poświadczenia logowania do swoich klientów, aby zalogowali się i samodzielnie wysyłali newslettery."
+
+msgid "Add your first brand!"
+msgstr "Dodaj swoją pierwszą markę!"
+
+msgid "Delete brand"
+msgstr "Usuń markę"
+
+msgid "All campaigns, lists, subscribers will be permanently deleted. Confirm delete <span id=\"brand-to-delete\" style=\"font-weight:bold;\"></span>?"
+msgstr "Wszystkie kampanie, listy, subskrybenci zostaną trwale usunięci. Potwierdzić usunięcie <span id=\"brand-to-delete\" style=\"font-weight:bold;\"></span>?"
+
+msgid "Calculating"
+msgstr "Obliczanie"
+
+msgid "Schedule this campaign?"
+msgstr "Zaplanować tę kampanię?"
+
+msgid "Back"
+msgstr "Wstecz"
+
+msgid "Link no longer exists"
+msgstr "Link już nie istnieje"
+
+msgid "List name is required"
+msgstr "Nazwa listy jest wymagana"
+
+msgid "Subscriber lists"
+msgstr "Listy subskrybentów"
+
+msgid "Add a new list"
+msgstr "Dodaj nową listę"
+
+msgid "Search all lists"
+msgstr "Wyszukaj wszystkie listy"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Active"
+msgstr "Aktywne"
+
+msgid "Segs"
+msgstr "Segmenty"
+
+msgid "ARs"
+msgstr "Autorespondery"
+
+msgid "Hide"
+msgstr "Ukryj"
+
+msgid "View segments for this list"
+msgstr "Zobacz segmenty dla tej listy"
+
+msgid "Create segments for this list"
+msgstr "Utwórz segmenty dla tej listy"
+
+msgid "View autoresponders for this list"
+msgstr "Zobacz autorespondery dla tej listy"
+
+msgid "Create autoresponders for this list"
+msgstr "Utwórz autorespondery dla tej listy"
+
+msgid "Unhide this list"
+msgstr "Odkryj tę listę"
+
+msgid "Hide this list"
+msgstr "Ukryj tę listę"
+
+msgid "No list yet."
+msgstr "Brak listy."
+
+msgid "Add one"
+msgstr "Dodaj jedną"
+
+msgid "Delete list"
+msgstr "Usuń listę"
+
+msgid "All subscribers, custom fields, autoresponders and segments in this list will be permanently deleted. Confirm delete <span id=\"list-to-delete\" style=\"font-weight:bold;\"></span>?"
+msgstr "Wszyscy subskrybenci, pola niestandardowe, autorespondery i segmenty na tej liście zostaną trwale usunięte. Potwierdź usunięcie <span id=\"list-to-delete\" style=\"font-weight:bold;\"></span>?"
+
+msgid "Sign in"
+msgstr "Zaloguj się"
+
+msgid "Forgot password?"
+msgstr "Zapomniałeś hasła?"
+
+msgid "Your email"
+msgstr "Twój e-mail"
+
+msgid "Send password reset email"
+msgstr "Wyślij e-mail do resetowania hasła"
+
+msgid "Sorry, unable to reset password. Please try again later!"
+msgstr "Przepraszamy, nie można zresetować hasła. Proszę spróbować ponownie później!"
+
+msgid "Password reset email has been sent to you"
+msgstr "E-mail do resetowania hasła został wysłany"
+
+msgid "New brand"
+msgstr "Nowa marka"
+
+msgid "Sending you to PayPal"
+msgstr "Przekierowywanie do PayPal"
+
+msgid "Sending you to PayPal, one moment please"
+msgstr "Przekierowywanie do PayPal, proszę czekać chwilę"
+
+msgid "Campaign for"
+msgstr "Kampania dla"
+
+msgid "Click here to proceed"
+msgstr "Kliknij tutaj, aby kontynuować"
+
+msgid "Thank you for your confirmation!"
+msgstr "Dziękujemy za potwierdzenie!"
+
+msgid "Oops. There was an error."
+msgstr "Ups. Wystąpił błąd."
+
+msgid "Your reconsent tag<br/>is working"
+msgstr "Twój tag ponownej zgody<br/>działa"
+
+msgid "Your reconsent tag will be converted to a real reconsent link when you send out your campaign."
+msgstr "Twój tag ponownej zgody zostanie przekształcony w prawdziwy link ponownej zgody, gdy wyślesz swoją kampanię."
+
+msgid "duplicate emails deleted from"
+msgstr "zduplikowane e-maile usunięte z"
+
+msgid "duplicate email(s) found in"
+msgstr "znaleziono zduplikowane e-maile w"
+
+msgid "delete them?"
+msgstr "usunąć je?"
+
+msgid "No duplicate emails found."
+msgstr "Nie znaleziono zduplikowanych e-maili."
+
+msgid "Check and remove duplicate emails"
+msgstr "Sprawdź i usuń zduplikowane e-maile"
+
+msgid "Select the list that have duplicates so that you can remove them"
+msgstr "Wybierz listę, która zawiera duplikaty, aby je usunąć"
+
+msgid "All available lists"
+msgstr "Wszystkie dostępne listy"
+
+msgid "duplicates"
+msgstr "duplikaty"
+
+msgid "There are no links for this campaign."
+msgstr "Nie ma linków dla tej kampanii."
+
+msgid "Campaign report"
+msgstr "Raport kampanii"
+
+msgid "Click to edit this campaign's title for your own reference"
+msgstr "Kliknij, aby edytować tytuł tej kampanii dla własnych potrzeb"
+
+msgid "Not set"
+msgstr "Nie ustawiono"
+
+msgid "View the campaign"
+msgstr "Zobacz kampanię"
+
+msgid "Sent on"
+msgstr "Wysłano"
+
+msgid "to"
+msgstr "do"
+
+msgid "To"
+msgstr "Do"
+
+msgid "Excluded"
+msgstr "Wykluczono"
+
+msgid "Export a CSV of ALL subscribers who did not open this email (includes subscribers newly added to the lists after this campaign was sent)"
+msgstr "Eksportuj CSV wszystkich subskrybentów, którzy nie otworzyli tego e-maila (obejmuje subskrybentów nowo dodanych do list po wysłaniu tej kampanii)"
+
+msgid "Import ALL subscribers who did not open this email into a list (includes subscribers newly added to the lists after this campaign was sent)"
+msgstr "Importuj WSZYSTKICH subskrybentów, którzy nie otworzyli tego e-maila na listę (obejmuje subskrybentów nowo dodanych do list po wysłaniu tej kampanii)"
+
+msgid "unique clicks"
+msgstr "unikalne kliknięcia"
+
+msgid "Export a CSV of ALL subscribers who clicked this link"
+msgstr "Eksportuj CSV wszystkich subskrybentów, którzy kliknęli ten link"
+
+msgid "Import ALL subscribers who clicked this link into a list"
+msgstr "Importuj WSZYSTKICH subskrybentów, którzy kliknęli ten link na listę"
+
+msgid "Export a CSV of ALL subscribers who unsubscribed"
+msgstr "Eksportuj CSV wszystkich subskrybentów, którzy się wypisali"
+
+msgid "No one unsubscribed from this campaign!"
+msgstr "Nikt się nie wypisał z tej kampanii!"
+
+msgid "Export a CSV of ALL subscribers who bounced"
+msgstr "Eksportuj CSV wszystkich subskrybentów, którzy odbili"
+
+msgid "No emails bounced from this campaign!"
+msgstr "Żadne e-maile nie odbiły w tej kampanii!"
+
+msgid "Export a CSV of ALL subscribers who marked your email as spam"
+msgstr "Eksportuj CSV wszystkich subskrybentów, którzy oznaczyli Twój e-mail jako spam"
+
+msgid "Campaign reports"
+msgstr "Raporty kampanii"
+
+msgid "There are no reports yet."
+msgstr "Brak raportów"
+
+msgid "Create your first campaign"
+msgstr "Utwórz swoją pierwszą kampanię"
+
+msgid "Cron job statuses has been reset"
+msgstr "Statusy zadań cron zostały zresetowane"
+
+msgid "Cron job instructions will now appear again where it is relevant."
+msgstr "Instrukcje dotyczące zadań cron będą teraz ponownie wyświetlane tam, gdzie są istotne."
+
+msgid "Reset cron job setup status"
+msgstr "Zresetuj status konfiguracji zadań cron"
+
+msgid "Failed to reset cron."
+msgstr "Nie udało się zresetować cron."
+
+msgid "Do you want to clear the positive status that cron jobs has been setup so that you can view cron job setup instructions again?"
+msgstr "Czy chcesz usunąć pozytywny status, że zadania cron zostały skonfigurowane, aby móc ponownie wyświetlić instrukcje konfiguracji zadań cron?"
+
+msgid "Yes, reset cron jobs statuses"
+msgstr "Tak, zresetuj statusy zadań cron"
+
+msgid "Create a new rule"
+msgstr "Utwórz nową regułę"
+
+msgid "On subscribe"
+msgstr "Na subskrypcję"
+
+msgid "On unsubscribe"
+msgstr "Na wypisanie"
+
+msgid "When campaign starts sending"
+msgstr "Gdy kampania zaczyna się wysyłać"
+
+msgid "On campaign sent"
+msgstr "Po wysłaniu kampanii"
+
+msgid "On autoresponder email sent"
+msgstr "Po wysłaniu e-maila autorespondera"
+
+msgid "Trigger webhook"
+msgstr "Wyzwól webhook"
+
+msgid "Send email notification"
+msgstr "Wyślij powiadomienie e-mail"
+
+msgid "Unsubscribe from list"
+msgstr "Wypisz się z listy"
+
+msgid "Select a trigger"
+msgstr "Wybierz wyzwalacz"
+
+msgid "Select a list"
+msgstr "Wybierz listę"
+
+msgid "Select an autoresponder"
+msgstr "Wybierz autoresponder"
+
+msgid "Select an action"
+msgstr "Wybierz akcję"
+
+msgid "Actions"
+msgstr "Akcje"
+
+msgid "eg. https://your_webhook_url"
+msgstr "np. https://your_webhook_url"
+
+msgid "eg."
+msgstr "np."
+
+msgid "Select a list to unsubscribe"
+msgstr "Wybierz listę do wypisania"
+
+msgid "Loading autoresponders.."
+msgstr "Ładowanie autoresponderów..."
+
+msgid "Trigger"
+msgstr "Wyzwalacz"
+
+msgid "Action"
+msgstr "Akcja"
+
+msgid "https://your_webhook_url"
+msgstr "https://your_webhook_url"
+
+msgid "Edit rule?"
+msgstr "Edytować regułę?"
+
+msgid "Delete rule?"
+msgstr "Usunąć regułę?"
+
+msgid "This will permanently delete the rule."
+msgstr "To trwale usunie regułę."
+
+msgid "You haven't created any rules yet"
+msgstr "Nie utworzyłeś jeszcze żadnych reguł"
+
+msgid "Delete rule"
+msgstr "Usuń regułę"
+
+msgid "Confirm delete this rule?"
+msgstr "Potwierdzić usunięcie tej reguły?"
+
+msgid "Webhook information"
+msgstr "Informacje o webhooku"
+
+msgid "When a user subscribes to your list, the following data will be sent to your webhook URL via HTTP POST:"
+msgstr "Gdy użytkownik zapisze się na Twoją listę, następujące dane zostaną wysłane na Twój URL webhooka przez HTTP POST:"
+
+msgid "When a user unsubscribes from your list, the following data will be sent to your webhook URL via HTTP POST:"
+msgstr "Gdy użytkownik wypisze się z Twojej listy, następujące dane zostaną wysłane na Twój URL webhooka przez HTTP POST:"
+
+msgid "When a campaign is sent, the following data will be sent to your webhook URL via HTTP POST:"
+msgstr "Gdy kampania jest wysyłana, następujące dane zostaną wysłane na Twój URL webhooka przez HTTP POST:"
+
+msgid "Title of the campaign"
+msgstr "Tytuł kampanii"
+
+msgid "Subject of the campaign"
+msgstr "Temat kampanii"
+
+msgid "'From name' for the campaign"
+msgstr "'Od nazwa' dla kampanii"
+
+msgid "'From email' address for the campaign"
+msgstr "'Od e-mail' adres dla kampanii"
+
+msgid "'Reply to' email address for the campaign"
+msgstr "'Odpowiedz na' adres e-mail dla kampanii"
+
+msgid "Date & time the campaign was sent"
+msgstr "Data i godzina wysłania kampanii"
+
+msgid "Number of recipients the campaign was sent to"
+msgstr "Liczba odbiorców, do których kampania została wysłana"
+
+msgid "Web version URL of the campaign"
+msgstr "URL wersji internetowej kampanii"
+
+msgid "Campaign ID of the campaign"
+msgstr "ID kampanii"
+
+msgid "Brand ID of the campaign"
+msgstr "ID marki kampanii"
+
+msgid "URL of the campaign report"
+msgstr "URL raportu kampanii"
+
+msgid "When a campaign starts sending, the following data will be sent to your webhook URL via HTTP POST:"
+msgstr "Gdy kampania zaczyna się wysyłać, następujące dane zostaną wysłane na Twój URL webhooka przez HTTP POST:"
+
+msgid "When the autoresponder sends an email, the following data will be sent to your webhook URL via HTTP POST:"
+msgstr "Gdy autoresponder wysyła e-mail, następujące dane zostaną wysłane na Twój URL webhooka przez HTTP POST:"
+
+msgid "Subject of the autoresponder email"
+msgstr "Temat e-maila autorespondera"
+
+msgid "'From name' for the autoresponder"
+msgstr "'Od nazwa' dla autorespondera"
+
+msgid "'From email' address for the autoresponder"
+msgstr "'Od e-mail' adres dla autorespondera"
+
+msgid "'Reply to' email address for the autoresponder"
+msgstr "'Odpowiedz na' adres e-mail dla autorespondera"
+
+msgid "Name of the subscriber the autoresponder was sent to"
+msgstr "Nazwa subskrybenta, do którego został wysłany autoresponder"
+
+msgid "Email of the subscriber the autoresponder was sent to"
+msgstr "E-mail subskrybenta, do którego został wysłany autoresponder"
+
+msgid "Date & time the autoresponder was sent"
+msgstr "Data i godzina wysłania autorespondera"
+
+msgid "Name of the list the autoresponder belongs to"
+msgstr "Nazwa listy, do której należy autoresponder"
+
+msgid "Name of the autoresponder"
+msgstr "Nazwa autorespondera"
+
+msgid "Encrypted list ID of the list the autoresponder belongs to"
+msgstr "Zaszyfrowane ID listy, do której należy autoresponder"
+
+msgid "ID of autoresponder"
+msgstr "ID autorespondera"
+
+msgid "ID of the autoresponder email"
+msgstr "ID e-maila autorespondera"
+
+msgid "URL of the autoresponder report"
+msgstr "URL raportu autorespondera"
+
+msgid "Keyword"
+msgstr "Słowo kluczowe"
+
+msgid "Back to brands"
+msgstr "Powrót do marek"
+
+msgid "All campaigns, lists, subscribers will be permanently deleted. Confirm delete"
+msgstr "Wszystkie kampanie, listy, subskrybenci zostaną trwale usunięci. Potwierdź usunięcie"
+
+msgid "No brands found."
+msgstr "Nie znaleziono marek."
+
+msgid "lists"
+msgstr "listy"
+
+msgid "list"
+msgstr "lista"
+
+msgid "No lists found."
+msgstr "Nie znaleziono list."
+
+msgid "Unsubscribe"
+msgstr "Wypisz się"
+
+msgid "subscriber"
+msgstr "subskrybent"
+
+msgid "Resubscribe"
+msgstr "Ponownie zasubskrybuj"
+
+msgid "Confirm"
+msgstr "Potwierdź"
+
+msgid "Sorry, unable to unsubscribe. Please try again later!"
+msgstr "Przepraszamy, nie można się wypisać. Proszę spróbować ponownie później!"
+
+msgid "No subscribers found."
+msgstr "Nie znaleziono subskrybentów."
+
+msgid "Delete subscriber"
+msgstr "Usuń subskrybenta"
+
+msgid "Delete <span id=\"email-to-delete\" style=\"font-weight:bold;\"></span> from 'this list only' or 'ALL lists' in this brand?"
+msgstr "Usunąć <span id=\"email-to-delete\" style=\"font-weight:bold;\"></span> z 'tej listy tylko' lub 'WSZYSTKICH list' w tej marce?"
+
+msgid "This list only"
+msgstr "Tylko ta lista"
+
+msgid "ALL lists in this brand"
+msgstr "WSZYSTKIE listy w tej marce"
+
+msgid "Back to campaigns"
+msgstr "Powrót do kampanii"
+
+msgid "No campaigns found."
+msgstr "Nie znaleziono kampanii."
+
+msgid "Please name your segment"
+msgstr "Proszę nazwać swój segment"
+
+msgid "Segments"
+msgstr "Segmenty"
+
+msgid "Back to segments"
+msgstr "Powrót do segmentów"
+
+msgid "New segment"
+msgstr "Nowy segment"
+
+msgid "Create a condition based on"
+msgstr "Utwórz warunek na podstawie"
+
+msgid "Signed up"
+msgstr "Zapisany"
+
+msgid "on or before"
+msgstr "w dniu lub przed"
+
+msgid "on or after"
+msgstr "w dniu lub po"
+
+msgid "between"
+msgstr "pomiędzy"
+
+msgid "is"
+msgstr "jest"
+
+msgid "is not"
+msgstr "nie jest"
+
+msgid "contains"
+msgstr "zawiera"
+
+msgid "does not contain"
+msgstr "nie zawiera"
+
+msgid "starts with"
+msgstr "zaczyna się od"
+
+msgid "ends with"
+msgstr "kończy się na"
+
+msgid "does not start with"
+msgstr "nie zaczyna się od"
+
+msgid "does not end with"
+msgstr "nie kończy się na"
+
+msgid "is tagged"
+msgstr "jest oznaczony"
+
+msgid "is not tagged"
+msgstr "nie jest oznaczony"
+
+msgid "OR"
+msgstr "LUB"
+
+msgid "AND"
+msgstr "I"
+
+msgid "Name your segment"
+msgstr "Nazwij swój segment"
+
+msgid "Edit segment name"
+msgstr "Edytuj nazwę segmentu"
+
+msgid "Name of this segment"
+msgstr "Nazwa tego segmentu"
+
+msgid "Save this segment"
+msgstr "Zapisz ten segment"
+
+msgid "2 letter abbreviation, eg. US"
+msgstr "Dwuliterowy skrót, np. US"
+
+msgid "Unable to save the segment name."
+msgstr "Nie można zapisać nazwy segmentu."
+
+msgid "Unable to save segment conditions."
+msgstr "Nie można zapisać warunków segmentu."
+
+msgid "Sorry, unable to save your segment."
+msgstr "Przepraszamy, nie można zapisać segmentu."
+
+msgid "subscribers found for this segment"
+msgstr "subskrybenci znalezieni dla tego segmentu"
+
+msgid "showing a preview of up to 10 records below"
+msgstr "pokazano podgląd do 10 rekordów poniżej"
+
+msgid "your conditions does not match any subscribers"
+msgstr "Twoje warunki nie pasują do żadnych subskrybentów"
+
+msgid "Export CSV of this segment"
+msgstr "Eksportuj CSV tego segmentu"
+
+msgid "Update segmentation results?"
+msgstr "Zaktualizować wyniki segmentacji?"
+
+msgid "When subscribers are added or removed from the list, the segmentation results will not update automatically unless you click the refresh button"
+msgstr "Gdy subskrybenci są dodawani lub usuwani z listy, wyniki segmentacji nie będą aktualizowane automatycznie, chyba że klikniesz przycisk odświeżania"
+
+msgid "To have your segmentation results update automatically,"
+msgstr "Aby wyniki segmentacji były aktualizowane automatycznie,"
+
+msgid "setup a cron job"
+msgstr "skonfiguruj zadanie cron"
+
+msgid "Add a cron job"
+msgstr "Dodaj zadanie cron"
+
+msgid "Add a cron job that runs every 15 minutes with the following command:"
+msgstr "Dodaj zadanie cron, które uruchamia się co 15 minut za pomocą następującego polecenia:"
+
+msgid "Time Interval"
+msgstr "Interwał czasowy"
+
+msgid "Command"
+msgstr "Polecenie"
+
+msgid "(Note that adding cron jobs vary from hosts to hosts, most offer a UI to add a cron job easily. Check your hosting control panel or consult your host if unsure.)"
+msgstr "(Należy pamiętać, że dodawanie zadań cron różni się w zależności od hostów, większość oferuje interfejs użytkownika do łatwego dodawania zadań cron. Sprawdź panel sterowania hostingu lub skonsultuj się z hostingiem, jeśli nie jesteś pewien.)"
+
+msgid "Once added, wait for the cron job to start running in 15 minutes. If your cron job is functioning correctly, the yellow informational message will disappear and your segmentation results will be updated automatically every 15 minutes by the cron job."
+msgstr "Po dodaniu, poczekaj, aż zadanie cron zacznie działać w ciągu 15 minut. Jeśli zadanie cron działa poprawnie, żółty komunikat informacyjny zniknie, a wyniki segmentacji będą aktualizowane automatycznie co 15 minut przez zadanie cron."
+
+msgid "Create a new segment"
+msgstr "Utwórz nowy segment"
+
+msgid "What are segments?"
+msgstr "Czym są segmenty?"
+
+msgid "Segments are subscribers filtered from a list based on certain conditions you define. Research shows sending emails to targeted segments not only improves open and click through rates, revenue can increase by more than 25%. Target segments of subscribers based on conditions you define using default fields like 'name' and 'email' or using any of your custom fields. Create multiple conditions and group them using 'AND' and 'OR' for each segment. Once you've created your segments, you can send targeted campaigns to these segments in addition to lists. You can even choose segments to 'exclude' from your sends."
+msgstr "Segmenty to subskrybenci filtrowani z listy na podstawie określonych warunków, które definiujesz. Badania pokazują, że wysyłanie e-maili do określonych segmentów nie tylko poprawia wskaźniki otwarć i kliknięć, ale także może zwiększyć przychody o ponad 25%. Kieruj segmenty subskrybentów na podstawie warunków, które definiujesz, używając domyślnych pól, takich jak 'nazwa' i 'e-mail' lub dowolnych pól niestandardowych. Twórz wiele warunków i grupuj je za pomocą 'I' i 'LUB' dla każdego segmentu. Po utworzeniu segmentów możesz wysyłać ukierunkowane kampanie do tych segmentów oprócz list. Możesz nawet wybrać segmenty do 'wykluczenia' z wysyłek."
+
+msgid "Existing segments"
+msgstr "Istniejące segmenty"
+
+msgid "Segment"
+msgstr "Segment"
+
+msgid "Subscribers"
+msgstr "Subskrybenci"
+
+msgid "Update"
+msgstr "Aktualizuj"
+
+msgid "Update totals for"
+msgstr "Aktualizuj sumy dla"
+
+msgid "All conditions in this segment will be permanently deleted."
+msgstr "Wszystkie warunki w tym segmencie zostaną trwale usunięte."
+
+msgid "Failed to delete segment"
+msgstr "Nie udało się usunąć segmentu"
+
+msgid "No segments"
+msgstr "Brak segmentów"
+
+msgid "Please disable 'ONLY_FULL_GROUP_BY' from 'sql_mode'"
+msgstr "Proszę wyłączyć 'ONLY_FULL_GROUP_BY' z 'sql_mode'"
+
+msgid "We have detected that 'ONLY_FULL_GROUP_BY' is enabled in 'sql_mode' in your MySQL server. Your campaign will fail to send unless 'ONLY_FULL_GROUP_BY' is removed from 'sql_mode'. Here's how to fix this &rarr; "
+msgstr "Wykryliśmy, że 'ONLY_FULL_GROUP_BY' jest włączone w 'sql_mode' na Twoim serwerze MySQL. Twoja kampania nie zostanie wysłana, chyba że 'ONLY_FULL_GROUP_BY' zostanie usunięte z 'sql_mode'. Oto jak to naprawić &rarr; "
+
+msgid "Visit your \"Brands\" page by clicking your company's name at the top left of the screen. Then check the instructions on the left sidebar on how to resolve this issue"
+msgstr "Odwiedź swoją stronę \"Marki\", klikając nazwę swojej firmy w lewym górnym rogu ekranu. Następnie sprawdź instrukcje na lewym pasku bocznym, jak rozwiązać ten problem"
+
+msgid "or"
+msgstr "lub"
+
+msgid "is pending verification in your Amazon SES console"
+msgstr "oczekuje na weryfikację w Twojej konsoli Amazon SES"
+
+msgid "Your 'From email' or its domain is pending verification in your Amazon SES console. Please complete the verification then refresh this page to proceed."
+msgstr "Twój 'Od e-mail' lub jego domena oczekuje na weryfikację w Twojej konsoli Amazon SES. Proszę zakończyć weryfikację, a następnie odświeżyć tę stronę, aby kontynuować."
+
+msgid "Your 'From email' or its domain is not verified in your Amazon SES console. A verification email has been sent to your 'From email' address with a confirmation link to complete the verification. Please click the link to complete the verification, then refresh this page."
+msgstr "Twój 'Od e-mail' lub jego domena nie jest zweryfikowana w Twojej konsoli Amazon SES. E-mail weryfikacyjny został wysłany na Twój adres 'Od e-mail' z linkiem potwierdzającym, aby zakończyć weryfikację. Proszę kliknąć link, aby zakończyć weryfikację, a następnie odświeżyć tę stronę."
+
+msgid "A verification email has been sent to your 'From email' address with a confirmation link. Please click the link to verify you are the owner of the 'From email', then refresh this page."
+msgstr "E-mail weryfikacyjny został wysłany na Twój adres 'Od e-mail' z linkiem potwierdzającym. Proszę kliknąć link, aby zweryfikować, że jesteś właścicielem 'Od e-mail', a następnie odświeżyć tę stronę."
+
+msgid "Test send this campaign"
+msgstr "Wyślij test tej kampanii"
+
+msgid "Test send this newsletter"
+msgstr "Wyślij test tego newslettera"
+
+msgid "Define recipients"
+msgstr "Zdefiniuj odbiorców"
+
+msgid "Choose your lists & segments"
+msgstr "Wybierz swoje listy i segmenty"
+
+msgid "No list found, click to add one."
+msgstr "Nie znaleziono listy, kliknij, aby dodać."
+
+msgid "No segments found"
+msgstr "Nie znaleziono segmentów"
+
+msgid "Exclude lists from this campaign?"
+msgstr "Wykluczyć listy z tej kampanii?"
+
+msgid "Don't include emails from these list & segments"
+msgstr "Nie uwzględniaj e-maili z tych list i segmentów"
+
+msgid "resets on"
+msgstr "resetuje się"
+
+msgid "of"
+msgstr "z"
+
+msgid " remaining"
+msgstr "pozostało"
+
+msgid "You can't send more than your monthly limit. Request for your limit to be raised by sending an email to"
+msgstr "Nie możesz wysłać więcej niż wynosi Twój miesięczny limit. Poproś o podniesienie limitu, wysyłając e-mail do"
+
+msgid "Send newsletter now!"
+msgstr "Wyślij newsletter teraz!"
+
+msgid "Your campaign is now sending!"
+msgstr "Twoja kampania jest teraz wysyłana!"
+
+msgid "You can safely close this window, your campaign will continue to send."
+msgstr "Możesz bezpiecznie zamknąć to okno, Twoja kampania będzie kontynuowana."
+
+msgid "You will be notified by email once your campaign has completed sending."
+msgstr "Otrzymasz powiadomienie e-mail, gdy Twoja kampania zostanie wysłana."
+
+msgid "Fee per recipient"
+msgstr "Opłata za odbiorcę"
+
+msgid "Grand total"
+msgstr "Łączna suma"
+
+msgid "Proceed to pay for campaign"
+msgstr "Przejdź do płatności za kampanię"
+
+msgid "SES sends left"
+msgstr "Pozostałe wysyłki SES"
+
+msgid "Unable to get your SES quota from Amazon. Visit your \"Brands\" page by clicking your company's name at the top left of the screen. Then check the instructions on the left sidebar on how to resolve this issue"
+msgstr "Nie można uzyskać kwoty SES od Amazon. Odwiedź swoją stronę \"Marki\", klikając nazwę swojej firmy w lewym górnym rogu ekranu. Następnie sprawdź instrukcje na lewym pasku bocznym, jak rozwiązać ten problem"
+
+msgid "Please try again by refreshing this page. If this error persist, visit your Amazon SNS console and delete all 'Topics' and 'Subscriptions' and try again."
+msgstr "Spróbuj ponownie, odświeżając tę stronę. Jeśli błąd będzie się powtarzał, odwiedź swoją konsolę Amazon SNS i usuń wszystkie 'Tematy' i 'Subskrypcje', a następnie spróbuj ponownie."
+
+msgid "Error: Unable to create bounces and complaints SNS topics, please try again by refreshing this page."
+msgstr "Błąd: Nie można utworzyć tematów SNS dla odbić i skarg, spróbuj ponownie, odświeżając tę stronę."
+
+msgid "Sendy is unable to verify and setup bounces & complaints handling for your 'From email' address. Here's what you need to do: "
+msgstr "Sendy nie może zweryfikować i skonfigurować obsługi odbić i skarg dla Twojego adresu 'Od e-mail'. Oto co musisz zrobić: "
+
+msgid "Visit your <a href=\"https://console.aws.amazon.com/iam/home#/users\" target=\"_blank\">IAM console</a> then follow the instructions in <a href=\"#amazonsnsfullaccess\" data-toggle=\"modal\">this video</a>."
+msgstr "Odwiedź swoją <a href=\"https://console.aws.amazon.com/iam/home#/users\" target=\"_blank\">konsolę IAM</a>, a następnie postępuj zgodnie z instrukcjami w <a href=\"#amazonsnsfullaccess\" data-toggle=\"modal\">tym filmie</a>."
+
+msgid "Then refresh this page."
+msgstr "Następnie odśwież tę stronę."
+
+msgid "Once this is done, Sendy will be able to setup bounces & complaints handling automatically."
+msgstr "Gdy to zostanie zrobione, Sendy będzie mógł automatycznie skonfigurować obsługę odbić i skarg."
+
+msgid "How to add AmazonSNSFullAccess policy to IAM user "
+msgstr "Jak dodać politykę AmazonSNSFullAccess do użytkownika IAM "
+
+msgid "Error communicating with Amazon SNS API"
+msgstr "Błąd komunikacji z API Amazon SNS"
+
+msgid "It looks like you are still in Amazon SES \"Sandbox mode\". You can only send to email addresses that you've verified in your"
+msgstr "Wygląda na to, że nadal jesteś w \"Trybie piaskownicy\" Amazon SES. Możesz wysyłać tylko na adresy e-mail, które zweryfikowałeś w swoim"
+
+msgid "Amazon SES console."
+msgstr "Konsola Amazon SES."
+
+msgid "If you try to send to email addresses NOT verified in your SES console, your recipient will not receive the email."
+msgstr "Jeśli spróbujesz wysłać na adresy e-mail, które nie zostały zweryfikowane w Twojej konsoli SES, odbiorca nie otrzyma e-maila."
+
+msgid "Request Amazon to move your Amazon SES account out of \"Sandbox mode\""
+msgstr "Poproś Amazon o wyjście z \"Trybu piaskownicy\" dla Twojego konta Amazon SES"
+
+msgid "to lift this restriction."
+msgstr "aby znieść to ograniczenie."
+
+msgid "You can't send more than your SES daily limit. Either wait till Amazon replenishes your daily limit in the next 24 hours, or request Amazon to"
+msgstr "Nie możesz wysłać więcej niż wynosi Twój dzienny limit SES. Poczekaj, aż Amazon uzupełni Twój dzienny limit w ciągu najbliższych 24 godzin, lub poproś Amazon o"
+
+msgid "We recommend"
+msgstr "Zalecamy"
+
+msgid "setting up a cron job"
+msgstr "konfigurację zadania cron"
+
+msgid "to send your newsletters"
+msgstr "do wysyłania swoich newsletterów"
+
+msgid "Newsletters sent via a cron job have the added ability to automatically resume sending when your server times out. You'll also be able to schedule emails."
+msgstr "Newslettery wysyłane za pomocą zadania cron mają dodatkową możliwość automatycznego wznawiania wysyłania, gdy serwer przekroczy limit czasu. Będziesz także mógł zaplanować e-maile."
+
+msgid "You haven't set up a cron job yet, but that's okay. You can still send newsletters right now. But keep in mind that you won't be able to navigate around Sendy until sending is complete. Also, you'll need to manually resume sending (with a click of a button) if your server times out."
+msgstr "Nie skonfigurowałeś jeszcze zadania cron, ale to nie problem. Możesz nadal wysyłać newslettery teraz. Pamiętaj jednak, że nie będziesz mógł poruszać się po Sendy, dopóki wysyłanie nie zostanie zakończone. Ponadto będziesz musiał ręcznie wznowić wysyłanie (kliknięciem przycisku), jeśli serwer przekroczy limit czasu."
+
+msgid "Setup a cron job now"
+msgstr "Skonfiguruj zadanie cron teraz"
+
+msgid "To schedule campaigns or to make sending more reliable, add a"
+msgstr "Aby zaplanować kampanie lub uczynić wysyłkę bardziej niezawodną, dodaj"
+
+msgid "cron job"
+msgstr "zadanie cron"
+
+msgid "with the following command."
+msgstr "za pomocą następującego polecenia."
+
+msgid "This command needs to be run every 5 minutes in order to check the database for any scheduled campaigns to send."
+msgstr "To polecenie musi być uruchamiane co 5 minut, aby sprawdzać bazę danych pod kątem zaplanowanych kampanii do wysłania."
+
+msgid "Once added, wait around 5 minutes. If your cron job is functioning correctly, you'll see the scheduling options instead of this modal window when you click on \"Schedule this campaign?\"."
+msgstr "Po dodaniu poczekaj około 5 minut. Jeśli zadanie cron działa poprawnie, zobaczysz opcje planowania zamiast tego okna modalnego po kliknięciu \"Zaplanować tę kampanię?\"."
+
+msgid "Schedule this campaign"
+msgstr "Zaplanuj tę kampanię"
+
+msgid "Pick a date"
+msgstr "Wybierz datę"
+
+msgid "Set a time"
+msgstr "Ustaw godzinę"
+
+msgid "Select a timezone"
+msgstr "Wybierz strefę czasową"
+
+msgid "Schedule campaign now"
+msgstr "Zaplanuj kampanię teraz"
+
+msgid "Schedule and pay for campaign"
+msgstr "Zaplanuj i zapłać za kampanię"
+
+msgid "Edit newsletter"
+msgstr "Edytuj newsletter"
+
+msgid "Newsletter preview"
+msgstr "Podgląd newslettera"
+
+msgid "Disabled"
+msgstr "Wyłączone"
+
+msgid "Opens tracking"
+msgstr "Śledzenie otwarć"
+
+msgid "Clicks tracking"
+msgstr "Śledzenie kliknięć"
+
+msgid "View web version link"
+msgstr "Zobacz link do wersji internetowej"
+
+msgid "Desktop"
+msgstr "Komputer"
+
+msgid "Mobile"
+msgstr "Mobilny"
+
+msgid "Preview personalization tags and custom fields using real data of up to 100 subscribers from list(s) you select on the left"
+msgstr "Podgląd tagów personalizacji i pól niestandardowych przy użyciu rzeczywistych danych do 100 subskrybentów z list(y) wybranych po lewej stronie"
+
+msgid "Your email does not contain an unsubscribe tag. It is recommended to include an unsubscribe link in your email to minimize complaint rates."
+msgstr "Twój e-mail nie zawiera tagu wypisu. Zaleca się umieszczenie linku do wypisu w e-mailu, aby zminimalizować wskaźniki skarg."
+
+msgid "Edit your email"
+msgstr "Edytuj swój e-mail"
+
+msgid "Some links in your email may be broken, which are listed below. Please check your HTML code and make the necessary corrections."
+msgstr "Niektóre linki w Twoim e-mailu mogą być uszkodzone, które są wymienione poniżej. Sprawdź kod HTML i dokonaj niezbędnych poprawek."
+
+msgid "Have you double checked your selected lists? If so, let's go ahead and send this!"
+msgstr "Czy dokładnie sprawdziłeś wybrane listy? Jeśli tak, kontynuujmy i wyślijmy to!"
+
+msgid "Have you double checked your selected lists? If so, proceed to pay for this campaign."
+msgstr "Czy dokładnie sprawdziłeś wybrane listy? Jeśli tak, przystąp do płatności za tę kampanię."
+
+msgid "Important: Bounces or complaints were not set up"
+msgstr "Ważne: Odbicia lub skargi nie zostały skonfigurowane"
+
+msgid "We've detected that bounces or complaints have not been setup."
+msgstr "Wykryliśmy, że odbicia lub skargi nie zostały skonfigurowane."
+
+msgid "Not having bounces or complaints registered means future campaigns will continue to be sent to emails that bounced and recipients who have marked your emails as spam. This may lead to Amazon suspending your AWS account."
+msgstr "Brak zarejestrowanych odbić lub skarg oznacza, że przyszłe kampanie będą nadal wysyłane na e-maile, które odbiły, oraz do odbiorców, którzy oznaczyli Twoje e-maile jako spam. Może to doprowadzić do zawieszenia Twojego konta AWS przez Amazon."
+
+msgid "We highly recommend setting up bounces & complaints"
+msgstr "Zalecamy skonfigurowanie obsługi odbić i skarg"
+
+msgid "Visit our Get Started Guide and complete steps 7 & 8"
+msgstr "Odwiedź nasz Przewodnik dla początkujących i ukończ kroki 7 i 8"
+
+msgid "Or troubleshoot with this FAQ"
+msgstr "Lub skorzystaj z tego FAQ w celu rozwiązania problemów"
+
+msgid "Don't send"
+msgstr "Nie wysyłaj"
+
+msgid "Send anyway"
+msgstr "Wyślij mimo to"
+
+msgid "Your campaign has been scheduled"
+msgstr "Twoja kampania została zaplanowana"
+
+msgid "You will be notified by email once your campaign has been sent."
+msgstr "Otrzymasz powiadomienie e-mail, gdy Twoja kampania zostanie wysłana."
+
+msgid "Now sending"
+msgstr "Wysyłanie teraz"
+
+msgid "Your campaign is on the way!"
+msgstr "Twoja kampania jest w drodze!"
+
+msgid "You can close this window and your campaign will continue to send. You will be notified by email once your campaign has completed sending."
+msgstr "Możesz zamknąć to okno, a Twoja kampania będzie nadal wysyłana. Otrzymasz powiadomienie e-mail, gdy Twoja kampania zostanie zakończona."
+
+msgid "Settings have been saved!"
+msgstr "Ustawienia zostały zapisane!"
+
+msgid "Company"
+msgstr "Firma"
+
+msgid "Your company"
+msgstr "Twoja firma"
+
+msgid "Your name"
+msgstr "Twoje imię"
+
+msgid "Your email address"
+msgstr "Twój adres e-mail"
+
+msgid "This login email address is already in use by one of your brands. Please find the brand that uses this login email address and change it to something else so that you can save. Or use another email address."
+msgstr "Ten adres e-mail logowania jest już używany przez jedną z Twoich marek. Znajdź markę, która używa tego adresu e-mail logowania i zmień go na inny, aby móc zapisać. Lub użyj innego adresu e-mail."
+
+msgid "Password (leave blank to not change it)"
+msgstr "Hasło (pozostaw puste, aby nie zmieniać)"
+
+msgid "Your password"
+msgstr "Twoje hasło"
+
+msgid "Enable two-factor authentication"
+msgstr "Włącz uwierzytelnianie dwuskładnikowe"
+
+msgid "Regenerate secret key"
+msgstr "Wygeneruj ponownie klucz tajny"
+
+msgid "What is \"Two-factor authentication\"?"
+msgstr "Co to jest \"Uwierzytelnianie dwuskładnikowe\"?"
+
+msgid "Two-factor authentication provides an additional layer of security by requiring a one time password (OTP) in addition to email & password credentials. You can get OTP codes without an internet or cellular connection using a <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">two-factor application</a>."
+msgstr "Uwierzytelnianie dwuskładnikowe zapewnia dodatkową warstwę bezpieczeństwa, wymagając jednorazowego hasła (OTP) oprócz poświadczeń e-mail i hasła. Możesz uzyskać kody OTP bez połączenia z internetem lub siecią komórkową, korzystając z <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">aplikacji dwuskładnikowej</a>."
+
+msgid "<strong>Step 1</strong>: Scan the following QR code (or enter the secret key) into your <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">two-factor application</a>:"
+msgstr "<strong>Krok 1</strong>: Zeskanuj poniższy kod QR (lub wprowadź klucz tajny) w swojej <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">aplikacji dwuskładnikowej</a>:"
+
+msgid "Secret key:"
+msgstr "Klucz tajny:"
+
+msgid "<strong>Step 2</strong>: Use your <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">two-factor application</a> to generate an OTP code, then paste it below:"
+msgstr "<strong>Krok 2</strong>: Użyj swojej <a href=\"#two_factor_apps\"data-toggle=\"modal\" style=\"text-decoration:underline;\">aplikacji dwuskładnikowej</a>, aby wygenerować kod OTP, a następnie wklej go poniżej:"
+
+msgid "OTP code, eg. 123456"
+msgstr "Kod OTP, np. 123456"
+
+msgid "Confirm and enable two-factor authentication"
+msgstr "Potwierdź i włącz uwierzytelnianie dwuskładnikowe"
+
+msgid "Two-factor authentication applications"
+msgstr "Aplikacje do uwierzytelniania dwuskładnikowego"
+
+msgid "There are many 'Two-factor authentication' mobile apps available in the market for free that can be used with services that supports 2FA like Amazon, Gmail, Dropbox, Facebook etc. The most common is 'Google Authenticator'. The following are links to Google Authenticator app for both iOS and Android:"
+msgstr "Na rynku dostępnych jest wiele darmowych aplikacji mobilnych do uwierzytelniania dwuskładnikowego, które można używać z usługami obsługującymi 2FA, takimi jak Amazon, Gmail, Dropbox, Facebook itp. Najbardziej popularną jest 'Google Authenticator'. Poniżej znajdują się linki do aplikacji Google Authenticator na iOS i Androida:"
+
+msgid "Google Authenticator"
+msgstr "Google Authenticator"
+
+msgid "iOS"
+msgstr "iOS"
+
+msgid "Android"
+msgstr "Android"
+
+msgid "OTP is correct, but unable to save."
+msgstr "Kod OTP jest poprawny, ale nie można zapisać."
+
+msgid "OTP code is incorrect. Please try again."
+msgstr "Kod OTP jest nieprawidłowy. Proszę spróbować ponownie."
+
+msgid "Please enter a valid, numeric OTP code."
+msgstr "Proszę wprowadzić prawidłowy, numeryczny kod OTP."
+
+msgid "Appearance"
+msgstr "Wygląd"
+
+msgid "'Ctrl + g' to toggle"
+msgstr "'Ctrl + g', aby przełączyć"
+
+msgid "Select your timezone"
+msgstr "Wybierz swoją strefę czasową"
+
+msgid "Select your language"
+msgstr "Wybierz swój język"
+
+msgid "Amazon Web Services Credentials"
+msgstr "Dane uwierzytelniające Amazon Web Services"
+
+msgid "Please see Step 5 of the Get Started Guide on how to create a set of IAM credentials to hook up your Amazon SES account with your Sendy installation"
+msgstr "Zapoznaj się z krokiem 5 w Przewodniku dla początkujących, aby dowiedzieć się, jak utworzyć zestaw poświadczeń IAM do podłączenia konta Amazon SES do instalacji Sendy"
+
+msgid "AWS Access Key ID"
+msgstr "Identyfikator klucza dostępu AWS"
+
+msgid "AWS Secret Access Key (leave blank to not change it)"
+msgstr "Tajny klucz dostępu AWS (pozostaw puste, aby nie zmieniać)"
+
+msgid "AWS Secret Acesss Key"
+msgstr "Tajny klucz dostępu AWS"
+
+msgid "Amazon SES region"
+msgstr "Region Amazon SES"
+
+msgid "Please select the same region as what's set in your Amazon SES console in the region selection drop down menu at the top right."
+msgstr "Wybierz ten sam region, który jest ustawiony w konsoli Amazon SES, w menu rozwijanym wyboru regionu w prawym górnym rogu."
+
+msgid "Your Amazon SES region"
+msgstr "Twój region Amazon SES"
+
+msgid "Sending rate"
+msgstr "Szybkość wysyłania"
+
+msgid "Sendy sends bulks of emails in parallel per second according to your Amazon SES send rate. Depending on the capability of your server, your server may have trouble processing huge bulks of emails efficiently if your SES send rate is very high. Lowering your send rate may yield better sending speed and stability."
+msgstr "Sendy wysyła partie e-maili równolegle na sekundę zgodnie z szybkością wysyłania Amazon SES. W zależności od możliwości Twojego serwera, serwer może mieć problemy z efektywnym przetwarzaniem dużych partii e-maili, jeśli szybkość wysyłania SES jest bardzo wysoka. Obniżenie szybkości wysyłania może przynieść lepszą prędkość wysyłania i stabilność."
+
+msgid "Adjust sending rate"
+msgstr "Dostosuj szybkość wysyłania"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "emails per second"
+msgstr "e-maile na sekundę"
+
+msgid "PayPal account"
+msgstr "Konto PayPal"
+
+msgid "If you charge your client(s) a fee for sending newsletters, they'll pay to this PayPal account. Also, don't forget to turn <strong>Auto Return</strong> ON in your PayPal account under <strong>Account settings (hover over your name at the top right) > Website payments (left sidebar) > Website preferences</strong> so that your client will be automatically re-directed to the sending script after payment. Just use your website's URL for the <strong>Return URL</strong> to be able to save."
+msgstr "Jeśli pobierasz od klienta (klientów) opłatę za wysyłanie newsletterów, zapłacą oni na to konto PayPal. Pamiętaj również, aby włączyć <strong>Auto Return</strong> na swoim koncie PayPal w sekcji <strong>Ustawienia konta (najedź kursorem na swoje imię w prawym górnym rogu) > Płatności na stronie internetowej (lewy pasek boczny) > Preferencje strony internetowej</strong>, aby Twój klient został automatycznie przekierowany do skryptu wysyłania po dokonaniu płatności. Aby móc zapisać, użyj adresu URL swojej strony internetowej jako <strong>Return URL</strong>."
+
+msgid "PayPal email address"
+msgstr "Adres e-mail PayPal"
+
+msgid "PayPal account email address"
+msgstr "Adres e-mail konta PayPal"
+
+msgid "No. of brands to show per page"
+msgstr "Liczba marek do wyświetlenia na stronę"
+
+msgid "brands per page"
+msgstr "marek na stronę"
+
+msgid "Require typing 'DELETE' before a brand, campaign, list or template can be deleted"
+msgstr "Wymagaj wpisania 'DELETE' przed usunięciem marki, kampanii, listy lub szablonu"
+
+msgid "Sending preferences"
+msgstr "Preferencje wysyłania"
+
+msgid "The <a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">General Data Protection Regulation (GDPR)</a> is a regulation in EU law on data protection and privacy for all individuals within the European Union. The GDPR regulation affects anyone in the world who collect and process the personal data of EU users. If you collect and process data of EU users, these GDPR features will be useful to you."
+msgstr "<a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">Ogólne rozporządzenie o ochronie danych (GDPR)</a> to rozporządzenie w prawie UE dotyczące ochrony danych i prywatności dla wszystkich osób w Unii Europejskiej. Rozporządzenie GDPR dotyczy każdego na świecie, kto zbiera i przetwarza dane osobowe użytkowników z UE. Jeśli zbierasz i przetwarzasz dane użytkowników z UE, te funkcje GDPR będą dla Ciebie przydatne."
+
+msgid "Subscribers who signup through the provided 'Ready-to-use subscribe form' or the embeddable 'Subscribe form HTML code' with 'gdpr' parameter set to 'true' will be tagged with 'GDPR'. By enabling this option, your future Campaigns will only send to subscribers tagged with 'GDPR'."
+msgstr "Subskrybenci, którzy zapiszą się za pomocą udostępnionego 'Formularza subskrypcji gotowego do użycia' lub osadzonego 'Kodu HTML formularza subskrypcji' z parametrem 'gdpr' ustawionym na 'true', będą oznaczeni tagiem 'GDPR'. Włączając tę opcję, przyszłe kampanie będą wysyłane tylko do subskrybentów oznaczonych tagiem 'GDPR'."
+
+msgid "Subscribers who signup through the provided 'Ready-to-use subscribe form' or the embeddable 'Subscribe form HTML code' with 'gdpr' parameter set to 'true' will be tagged with 'GDPR'. By enabling this option, your future Autoresponders will only send to subscribers tagged with 'GDPR'."
+msgstr "Subskrybenci, którzy zapiszą się za pomocą udostępnionego 'Formularza subskrypcji gotowego do użycia' lub osadzonego 'Kodu HTML formularza subskrypcji' z parametrem 'gdpr' ustawionym na 'true', będą oznaczeni tagiem 'GDPR'. Włączając tę opcję, przyszłe autorespondery będą wysyłane tylko do subskrybentów oznaczonych tagiem 'GDPR'."
+
+msgid "Your license key"
+msgstr "Twój klucz licencyjny"
+
+msgid "You'll need this license key to"
+msgstr "Będziesz potrzebować tego klucza licencyjnego do"
+
+msgid "download the latest version of Sendy on our website"
+msgstr "pobrania najnowszej wersji Sendy z naszej strony internetowej"
+
+msgid "Your API key"
+msgstr "Twój klucz API"
+
+msgid "Regenerate API key?"
+msgstr "Wygenerować ponownie klucz API?"
+
+msgid "Please note that tracking links, unsubscribe and web version links are encrypted with your API key, regenerating your API key means they will cease to work for emails that were already sent out. Also, if you currently use Sendy's subscribe form or API for your website or application, please update the API key or forms with the newly generated one. Your old API key will be stored and can be restored at a later time if you change your mind."
+msgstr "Należy pamiętać, że linki śledzące, linki do wypisu i linki do wersji internetowej są zaszyfrowane za pomocą Twojego klucza API. Wygenerowanie nowego klucza API oznacza, że przestaną działać dla e-maili, które już zostały wysłane. Ponadto, jeśli obecnie używasz formularza subskrypcji lub API Sendy dla swojej strony internetowej lub aplikacji, zaktualizuj klucz API lub formularze do nowo wygenerowanego. Twój stary klucz API zostanie zapisany i może zostać przywrócony później, jeśli zmienisz zdanie."
+
+msgid "Click to regenerate API key"
+msgstr "Kliknij, aby wygenerować ponownie klucz API"
+
+msgid "Restore previous API key?"
+msgstr "Przywrócić poprzedni klucz API?"
+
+msgid "Your API key has been regenerated!"
+msgstr "Twój klucz API został wygenerowany ponownie!"
+
+msgid "Sorry, unable to regenerate API key. Please try again later!"
+msgstr "Przepraszamy, nie można wygenerować ponownie klucza API. Proszę spróbować ponownie później!"
+
+msgid "This will restore your API key to the previous key. Do you want to proceed?"
+msgstr "To przywróci Twój klucz API do poprzedniego. Czy chcesz kontynuować?"
+
+msgid "Your previous API key has been restored!"
+msgstr "Twój poprzedni klucz API został przywrócony!"
+
+msgid "Sorry, unable to restore API key. Please try again later!"
+msgstr "Przepraszamy, nie można przywrócić klucza API. Proszę spróbować ponownie później!"
+
+msgid "Visit the <a href=\"https://sendy.co/api?app_path="
+msgstr "Odwiedź <a href=\"https://sendy.co/api?app_path="
+
+msgid "Zapier integration"
+msgstr "Integracja z Zapier"
+
+msgid "<a href=\"https://zapier.com\" target=\"_blank\" style=\"text-decoration:underline\">Zapier</a>'s integration with <a href=\"https://zapier.com/apps/sendy/integrations\" target=\"_blank\" style=\"text-decoration:underline\">Sendy</a> opens up a whole world of automation! You can integrate Sendy with over 1,000 apps available in <a href=\"https://zapier.com/apps\" target=\"_blank\" style=\"text-decoration:underline\">Zapier's app directory</a>. The following are a few ready to use \"Zaps\" to get you started. Alternatively you can visit Zapier and create your own \"Zaps\" to integrate Sendy with any other apps. You'd be prompted to <a href=\"https://zapier.com/sign-up/\" target=\"_blank\" style=\"text-decoration:underline\">signup for a free Zapier account</a> if you don't have one."
+msgstr "Integracja <a href=\"https://zapier.com\" target=\"_blank\" style=\"text-decoration:underline\">Zapier</a> z <a href=\"https://zapier.com/apps/sendy/integrations\" target=\"_blank\" style=\"text-decoration:underline\">Sendy</a> otwiera świat automatyzacji! Możesz zintegrować Sendy z ponad 1000 aplikacji dostępnych w <a href=\"https://zapier.com/apps\" target=\"_blank\" style=\"text-decoration:underline\">katalogu aplikacji Zapier</a>. Poniżej znajduje się kilka gotowych do użycia \"Zaps\", aby rozpocząć. Alternatywnie możesz odwiedzić Zapier i stworzyć własne \"Zaps\", aby zintegrować Sendy z innymi aplikacjami. Jeśli nie masz konta, zostaniesz poproszony o <a href=\"https://zapier.com/sign-up/\" target=\"_blank\" style=\"text-decoration:underline\">rejestrację na bezpłatne konto Zapier</a>."
+
+msgid "Your company name is required"
+msgstr "Nazwa Twojej firmy jest wymagana"
+
+msgid "Your name is required"
+msgstr "Twoje imię jest wymagane"
+
+msgid "A valid email is required"
+msgstr "Wymagany jest prawidłowy e-mail"
+
+msgid "IP address is invalid."
+msgstr "Adres IP jest nieprawidłowy."
+
+msgid "Country must be a valid 2 letter country code"
+msgstr "Kraj musi być prawidłowym dwuliterowym kodem kraju"
+
+msgid "Referrer is not a valid URL"
+msgstr "Polecający nie jest prawidłowym adresem URL"
+
+msgid "Some fields are missing."
+msgstr "Brakuje niektórych pól."
+
+msgid "Email address is bounced."
+msgstr "Adres e-mail został odrzucony."
+
+msgid "Failed reCAPTCHA test."
+msgstr "Nieudany test reCAPTCHA."
+
+msgid "Consent not given."
+msgstr "Zgoda nie została wyrażona."
+
+msgid "API key not passed"
+msgstr "Klucz API nie został podany"
+
+msgid "Invalid API key"
+msgstr "Nieprawidłowy klucz API"
+
+msgid "Invalid secret key."
+msgstr "Nieprawidłowy klucz tajny."
+
+msgid "Thank you, a confirmation email has been sent to you."
+msgstr "Dziękujemy, e-mail potwierdzający został wysłany do Ciebie."
+
+msgid "A confirmation email had already been sent to you."
+msgstr "E-mail potwierdzający został już do Ciebie wysłany."
+
+msgid "You're already subscribed!"
+msgstr "Jesteś już subskrybentem!"
+
+msgid "Confirm your subscription to"
+msgstr "Potwierdź subskrypcję na"
+
+msgid "Please confirm your subscription by clicking the link below"
+msgstr "Proszę potwierdzić subskrypcję, klikając poniższy link"
+
+msgid "Add subscribers"
+msgstr "Dodaj subskrybentów"
+
+msgid "Delete subscribers"
+msgstr "Usuń subskrybentów"
+
+msgid "Mass unsubscribe"
+msgstr "Masowe wypisanie"
+
+msgid "all subscribers"
+msgstr "wszyscy subskrybenci"
+
+msgid "active subscribers"
+msgstr "aktywni subskrybenci"
+
+msgid "unconfirmed subscribers"
+msgstr "niepotwierdzeni subskrybenci"
+
+msgid "unsubscribers"
+msgstr "wypisani subskrybenci"
+
+msgid "bounced subscribers"
+msgstr "odrzuceni subskrybenci"
+
+msgid "subscribers who marked your email as spam"
+msgstr "subskrybenci, którzy oznaczyli Twój e-mail jako spam"
+
+msgid "GDPR subscribers"
+msgstr "Subskrybenci GDPR"
+
+msgid "Subscribe form"
+msgstr "Formularz subskrypcji"
+
+msgid "Ready-to-use subscribe form"
+msgstr "Formularz subskrypcji gotowy do użycia"
+
+msgid "The following is a 'ready-to-use' subscription form URL you can immediately use to collect sign ups to this list"
+msgstr "Poniżej znajduje się URL formularza subskrypcji 'gotowy do użycia', który możesz natychmiast użyć do zbierania zapisów na tę listę"
+
+msgid "The following is an embeddable subscribe form HTML code for this list"
+msgstr "Poniżej znajduje się kod HTML osadzonego formularza subskrypcji dla tej listy"
+
+msgid "You can setup reCAPTCHA in the brand settings."
+msgstr "Możesz skonfigurować reCAPTCHA w ustawieniach marki."
+
+msgid "You can setup reCAPTCHA in the main settings."
+msgstr "Możesz skonfigurować reCAPTCHA w głównych ustawieniach."
+
+msgid "To subscribe users programmatically, use the API"
+msgstr "Aby subskrybować użytkowników programowo, użyj API"
+
+msgid "Enable GDPR fields"
+msgstr "Włącz pola GDPR"
+
+msgid "The <a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">General Data Protection Regulation (GDPR)</a> is a regulation in EU law on data protection and privacy for all individuals within the European Union. The GDPR regulation affects anyone in the world who collect and process the personal data of EU users. If you collect and process data of EU users, consider enabling GDPR fields."
+msgstr "<a href=\"https://www.eugdpr.org/the-regulation.html\" target=\"_blank\" style=\"text-decoration: underline;\">Ogólne rozporządzenie o ochronie danych (GDPR)</a> to rozporządzenie w prawie UE dotyczące ochrony danych i prywatności dla wszystkich osób w Unii Europejskiej. Rozporządzenie GDPR dotyczy każdego na świecie, kto zbiera i przetwarza dane osobowe użytkowników z UE. Jeśli zbierasz i przetwarzasz dane użytkowników z UE, rozważ włączenie pól GDPR."
+
+msgid "GDPR fields are supported in both the 'Ready-to-use subscribe form' and the embeddable 'Subscribe form HTML code' as seen on the left. When GDPR fields are enabled, an unticked consent checkbox will appear below the subscription form with 'Marketing permission' and 'What to expect' texts to explain what they are signing up for and what you’re going to do with the information they submit. Users are required to check the checkbox in order to subscribe."
+msgstr "Pola GDPR są obsługiwane zarówno w 'Formularzu subskrypcji gotowym do użycia', jak i w osadzonym 'Kodzie HTML formularza subskrypcji', jak pokazano po lewej stronie. Po włączeniu pól GDPR poniżej formularza subskrypcji pojawi się niezaznaczone pole wyboru zgody z tekstami 'Zgoda marketingowa' i 'Czego się spodziewać', aby wyjaśnić, na co się zapisują i co zamierzasz zrobić z przekazanymi informacjami. Użytkownicy muszą zaznaczyć pole wyboru, aby się zapisać."
+
+msgid "Marketing permission"
+msgstr "Zgoda marketingowa"
+
+msgid "What to expect"
+msgstr "Czego się spodziewać"
+
+msgid "Subscribers activity chart"
+msgstr "Wykres aktywności subskrybentów"
+
+msgid "Click to learn more"
+msgstr "Kliknij, aby dowiedzieć się więcej"
+
+msgid "emails were skipped or updated from your last import"
+msgstr "e-maile zostały pominięte lub zaktualizowane od ostatniego importu"
+
+msgid "To see the list and reasons, export the CSV."
+msgstr "Aby zobaczyć listę i powody, wyeksportuj plik CSV."
+
+msgid "Export skipped email addresses from your last import"
+msgstr "Eksportuj pominięte adresy e-mail z ostatniego importu"
+
+msgid "Dismiss this notice (CSV will no longer be available for download)"
+msgstr "Odrzuć to powiadomienie (CSV nie będzie już dostępny do pobrania)"
+
+msgid "Dismiss"
+msgstr "Odrzuć"
+
+msgid "What changes a subscriber's 'Last activity' timestamp?"
+msgstr "Co zmienia znacznik czasu 'Ostatniej aktywności' subskrybenta?"
+
+msgid "A subscriber's 'Last activity' timestamp is updated when the user:"
+msgstr "Znacznik czasu 'Ostatniej aktywności' subskrybenta jest aktualizowany, gdy użytkownik:"
+
+msgid ""
+"• opened a campaign or autoresponder\n"
+"• clicked a link in a campaign or autoresponder\n"
+"• subscribed to a list\n"
+"• unsubscribed from a list\n"
+"• bounced\n"
+"• marked as spam\n"
+"• confirmed a double opt-in subscription"
+msgstr ""
+"• otworzył kampanię lub autoresponder\n"
+"• kliknął link w kampanii lub autoresponderze\n"
+"• zapisał się na listę\n"
+"• wypisał się z listy\n"
+"• został odrzucony\n"
+"• oznaczył jako spam\n"
+"• potwierdził subskrypcję double opt-in"
+
+msgid "Subscribers are sorted by 'Last activity' in the list. Therefore, subscribers who did any of the above activity will float to the top of the subscriber list. You will also see changes in the 'Subscribers activity chart'."
+msgstr "Subskrybenci są sortowani według 'Ostatniej aktywności' na liście. Dlatego subskrybenci, którzy wykonali którąkolwiek z powyższych czynności, będą przesuwać się na górę listy subskrybentów. Zobaczysz również zmiany na 'Wykresie aktywności subskrybentów'."
+
+msgid "To activate autoresponders, add a"
+msgstr "Aby aktywować autorespondery, dodaj"
+
+msgid "This command needs to be run every minute in order to check the database for any autoresponder emails to send."
+msgstr "To polecenie musi być uruchamiane co minutę, aby sprawdzić bazę danych pod kątem wszelkich e-maili autoresponderów do wysłania."
+
+msgid "Note that adding cron jobs vary from hosts to hosts, most offer a UI to add a cron job easily. Check your hosting control panel or consult your host if unsure."
+msgstr "Zauważ, że dodawanie zadań cron różni się w zależności od hosta, większość oferuje interfejs użytkownika do łatwego dodawania zadań cron. Sprawdź panel sterowania hostingu lub skonsultuj się z hostem, jeśli nie masz pewności."
+
+msgid "Once added, wait one minute. If your cron job is functioning correctly, you'll see the autoresponder options instead of this modal window when you click on the \"Autoresponders\" button."
+msgstr "Po dodaniu poczekaj minutę. Jeśli zadanie cron działa poprawnie, zobaczysz opcje autorespondera zamiast tego okna modalnego po kliknięciu przycisku \"Autorespondery\"."
+
+msgid "Join our mailing list"
+msgstr "Dołącz do naszej listy mailingowej"
+
+msgid "Subscribe to list"
+msgstr "Zapisz się na listę"
+
+msgid "Create a new template"
+msgstr "Utwórz nowy szablon"
+
+msgid "Use"
+msgstr "Użyj"
+
+msgid "Create a new campaign with this template"
+msgstr "Utwórz nową kampanię za pomocą tego szablonu"
+
+msgid "No templates have been created yet"
+msgstr "Nie utworzono jeszcze żadnych szablonów"
+
+msgid "Create one"
+msgstr "Utwórz jeden"
+
+msgid "Delete template"
+msgstr "Usuń szablon"
+
+msgid "This template will be permanently deleted. Confirm delete <span id=\"template-to-delete\" style=\"font-weight:bold;\"></span>?"
+msgstr "Ten szablon zostanie trwale usunięty. Potwierdź usunięcie <span id=\"template-to-delete\" style=\"font-weight:bold;\"></span>?"
+
+msgid "Two Factor Authentication"
+msgstr "Uwierzytelnianie dwuskładnikowe"
+
+msgid "OTP Code"
+msgstr "Kod OTP"
+
+msgid "Verify and login"
+msgstr "Zweryfikuj i zaloguj się"
+
+msgid "Unable to authenticate?"
+msgstr "Nie można uwierzytelnić?"
+
+msgid "I have trouble logging in with two-factor authentication"
+msgstr "Mam problem z logowaniem się za pomocą uwierzytelniania dwuskładnikowego"
+
+msgid "Mass unsubscribe via CSV file"
+msgstr "Masowe wypisanie za pomocą pliku CSV"
+
+msgid "Unsubscribe email per line"
+msgstr "Wypisz e-mail na linię"
+
+msgid "Email to unsubscribe"
+msgstr "E-mail do wypisania"
+
+msgid "Your unsubscribe tag<br/>is working"
+msgstr "Twój tag wypisu<br/>działa"
+
+msgid "Your unsubscribe tag will be converted to a real unsubscribe link when you send out your campaign."
+msgstr "Twój tag wypisu zostanie zamieniony na prawdziwy link wypisu, gdy wyślesz swoją kampanię."
+
+msgid "Confirm unsubscribe?"
+msgstr "Potwierdź wypisanie?"
+
+msgid "You're unsubscribed."
+msgstr "Jesteś wypisany."
+
+msgid "Yes. Unsubscribe me."
+msgstr "Tak. Wypisz mnie."
+
+msgid "Re-subscribe?"
+msgstr "Zasubskrybować ponownie?"
+
+msgid "Number of columns in CSV does not match CSV format example (as shown below)."
+msgstr "Liczba kolumn w CSV nie pasuje do przykładu formatu CSV (jak pokazano poniżej)."
+
+msgid "Could not upload file. Please make sure permissions in /uploads/ folder is set to 777. Then remove the /csvs/ folder in the /uploads/ folder and try again."
+msgstr "Nie można przesłać pliku. Upewnij się, że uprawnienia w folderze /uploads/ są ustawione na 777. Następnie usuń folder /csvs/ w folderze /uploads/ i spróbuj ponownie."
+
+msgid "Format your CSV the same way as the example below"
+msgstr "Sformatuj swój plik CSV w taki sam sposób jak przykład poniżej"
+
+msgid "download sample CSV file"
+msgstr "pobierz przykładowy plik CSV"
+
+msgid "The number of columns in your CSV should be the same as the example below"
+msgstr "Liczba kolumn w twoim pliku CSV powinna być taka sama jak w przykładzie poniżej"
+
+msgid "If you want to import more than just name & email"
+msgstr "Jeśli chcesz zaimportować więcej niż tylko imię i e-mail"
+
+msgid "create custom fields first"
+msgstr "najpierw utwórz pola niestandardowe"
+
+msgid "Apply <span class=\"label label-warning\">GDPR</span> tag to imported subscribers?"
+msgstr "Zastosować tag <span class=\"label label-warning\">GDPR</span> do importowanych subskrybentów?"
+
+msgid "If your data includes EU subscribers that were collected in a GDPR compliant manner, check this box to apply a 'GDPR' tag to all of them. In your brand settings, you can turn on the 'GDPR' safe switch' so that Campaigns and Autoresponders will only always send to subscribers tagged with 'GDPR'."
+msgstr "Jeśli Twoje dane zawierają subskrybentów z UE, którzy zostali zebrani zgodnie z GDPR, zaznacz to pole, aby zastosować tag 'GDPR' do wszystkich. W ustawieniach marki możesz włączyć 'Bezpieczny przełącznik GDPR', aby kampanie i autorespondery były zawsze wysyłane tylko do subskrybentów oznaczonych tagiem 'GDPR'."
+
+msgid "If your CSV is huge and your server constantly timeout"
+msgstr "Jeśli twój plik CSV jest ogromny i twój serwer stale się rozłącza"
+
+msgid "By setting up a cron job, your CSV will continue to import without needing your window to be opened and timeouts will automatically be handled as well."
+msgstr "Ustawiając zadanie cron, import pliku CSV będzie kontynuowany bez konieczności otwierania okna, a przerywanie będzie automatycznie obsługiwane."
+
+msgid "To import large CSVs more reliably and have Sendy handle server timeouts, add a"
+msgstr "Aby importować duże pliki CSV bardziej niezawodnie i pozwolić Sendy obsługiwać przerywanie serwera, dodaj"
+
+msgid "The above cron job runs every 1 minute. You can set it at 5 minutes (eg. */5) or any interval you want. The shorter the interval, the faster your CSV will start to import. Once added, wait for cron job to start running. If your cron job is functioning correctly, the yellow informational message will disappear and future CSV imports will be done via cron."
+msgstr "Powyższe zadanie cron uruchamia się co 1 minutę. Możesz ustawić je na 5 minut (np. */5) lub dowolny inny interwał. Im krótszy interwał, tym szybciej twój plik CSV zacznie się importować. Po dodaniu poczekaj, aż zadanie cron zacznie działać. Jeśli zadanie cron działa poprawnie, żółte powiadomienie informacyjne zniknie, a przyszłe importy CSV będą realizowane za pomocą cron."
+
+msgid "Add name and email per line"
+msgstr "Dodaj imię i e-mail na linię"
+
+msgid "Name and email"
+msgstr "Imię i e-mail"
+
+msgid "to import more than just name and email, import via CSV"
+msgstr "aby zaimportować więcej niż tylko imię i e-mail, importuj za pomocą CSV"
+
+msgid "Verification success"
+msgstr "Weryfikacja zakończona sukcesem"
+
+msgid "Verification failed"
+msgstr "Weryfikacja nieudana"
+
+msgid "Your email has been verified!"
+msgstr "Twój e-mail został zweryfikowany!"
+
+msgid "Verification failed."
+msgstr "Weryfikacja nieudana."
+
+msgid "Web version no longer exists"
+msgstr "Wersja internetowa już nie istnieje"
+
+msgid "There is nothing in the log."
+msgstr "W dzienniku nie ma nic."
